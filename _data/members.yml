@@ -1,0 +1,218 @@
+# Members
+
+- name: 汪阳明博士
+  role: PI
+  img: http://wanglabpku.github.io/img/members/wym.jpg
+  email: yangming.wang(at)pku.edu.cn 
+  bio: <b>教授</b> <br> <b>国家杰出青年基金获得者</b> <br> 北京大学未来技术学院分子医学研究所 <br>现任Science Bulletin编委&#65292中国细胞生物学学会干细胞分会委员&#65292中国生物化学及分子生物学学会RNA分会委员&#65292RNA分会青年委员会主任委员<br> <b>教育背景</b> <br> 1996-2000&#65292北京大学生命科学学院&#65292理学学士&#65307 <br>2001-2006&#65292伊利诺伊大学厄巴纳-香槟分校&#65292理学博士&#65292导师&#65306Scott K. Silverman&#65307 <br>2006-2010&#65292美国加州大学旧金山分校&#65292博士后&#65292导师&#65306Robert H. Blelloch&#65294
+  url: https://future.pku.edu.cn/jsdw/jy/fzyxs1/4185484966f94b3dbb2ede3151b3913a.htm
+  visible: true
+   
+- name: 曹慧青博士
+  role: Co-PI
+  img: https://www.imm.pku.edu.cn/images/content/2017-01/20170112141644371475.jpg
+  email: caohuiqing(at)pku.edu.cn 
+  bio: <b>副研究员</b> <br> 北京大学未来技术学院分子医学研究所<br> <br> <br> <br>
+  url: http://www.imm.pku.edu.cn/kytd/rcdw/23688.htm
+  visible: true
+  
+- name: 吴怡霞
+  role: Lab Manager
+  img: http://wanglabpku.github.io/img/female.png
+  bio: 
+  research: 日常事务管理<br> <br> 
+  url: 
+  visible: True
+
+- name: 胡鲁峰博士
+  role: Postdoc
+  img: http://wanglabpku.github.io/img/members/hlf.jpg
+  bio: 北京大学生物学博士 <br> <br>
+  research: 基因编辑技术
+  url: 
+  visible: True
+
+- name: 姚望博士
+  role: Postdoc
+  img: http://wanglabpku.github.io/img/male.jpg
+  bio: 南京农业大学博士 <br> <br>
+  research: 早期胚胎发育
+  url: 
+  visible: True
+
+- name: 赵雨亭
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/zyt.jpg
+  bio: 四川大学学士 <br> <br>
+  research: 长非编码RNA与CRISPR-Cas9
+  url: 
+  visible: True
+
+- name: 张晓姗
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/zxs.jpg
+  bio: 中国农业大学学士 <br> <br>
+  research: 类器官研究
+  url: 
+  visible: True
+
+- name: 李真
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/lz.jpg
+  bio: 湖北大学学士 <br> <br>
+  research: 长非编码RNA
+  url: 
+  visible: True
+
+- name: 米黎
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/female.png
+  bio: 华中农业大学学士 <br> <br>
+  research: RNA精准编辑技术
+  url: 
+  visible: True
+
+- name: 王静
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/wjing.jpg
+  bio: 中国农业科学院硕士<br> <br>
+  research: 长非编码RNA与基因编辑
+  url: 
+  visible: True
+
+- name: 王康伟
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/wkw.jpg
+  bio: 大连医科大学硕士 <br> <br>
+  research: 心脏再生
+  url: 
+  visible: True
+
+- name: 石铭
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/sming.jpg
+  bio: 曲阜师范大学硕士 <br> <br>
+  research: 早期胚胎发育
+  url: 
+  visible: True
+
+- name: 程玘轩
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/cqx.jpg
+  bio: 中国农业大学学士<br> <br>
+  research: RNA生物技术
+  url: 
+  visible: True
+
+- name: 谢岗
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/xg.jpg
+  github: JeremyTse
+  bio: 华中科技大学工学学士 <br>
+  research: RNA生物信息学
+  url: 
+  visible: True
+
+- name: 丁双进
+  role: Technician
+  img: http://wanglabpku.github.io/img/members/dsj.jpg
+  bio: 南昌大学理学硕士 <br> <br>
+  research: 类器官研究
+  url: 
+  visible: True
+
+- name: 刘洋
+  role: Technician
+  img: http://wanglabpku.github.io/img/female.png
+  bio: 广西大学硕士 <br> <br>
+  research: 生物信息学
+  url: 
+  visible: True
+
+- name: 李宇轩
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/female.png
+  bio: 北京大学元培学院<br> <br> <br>
+  research: 基因编辑技术
+  url: 
+  visible: True
+
+- name: 王杰
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/male.jpg
+  bio: 兰州大学<br> <br> <br>
+  research: RNA结合蛋白
+  url: 
+  visible: True
+
+- name: 汪家震
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/members/wjz.jpg
+  bio: 北京大学生命科学学院<br> <br> <br>
+  research: 基因编辑技术
+  url: 
+  visible: True
+
+- name: 张翔宇
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/members/zxy.jpg
+  bio: 北京大学元培学院 <br> <br>
+  research: microRNA
+  url: 
+  visible: True
+  
+- name: 李睿喆
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/male.jpg
+  bio: 北京大学元培学院<br> <br> <br>
+  research:
+  url: 
+  visible: True
+
+- name: 张超
+  role: 博士
+  img: 
+  bio: 北京大学
+  research: 在新加坡南洋理工大学从事类器官研究
+  url: 
+  visible: False
+
+- name: 王茜雯
+  role: 博士
+  img: 
+  bio: 北京大学
+  research: 为在清华大学<a href="https://zhanglab.net">张强锋实验室</a>博士后从事RNA相关研究
+  url: 
+  visible: False
+
+- name: 郝菁
+  role: 博士
+  img: 
+  bio: 北京大学
+  research: 
+  url: 
+  visible: False
+
+- name: 段菲菲
+  role: 博士
+  img: 
+  bio: 北京大学
+  research: 
+  url: 
+  visible: False
+
+- name: 王绍华
+  role: 博士
+  img: 
+  bio: 北京大学
+  research: 
+  url: 
+  visible: False
+
+- name: 张艺雯
+  role: 技术员
+  img: 
+  bio: 北京大学
+  research: 
+  url: 
+  visible: False

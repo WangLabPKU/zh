@@ -1,0 +1,52 @@
+---
+layout: page
+title: "Contact"
+description: ""
+header-img: "http://wanglabpku.github.io/img/molecule.png"
+---
+<head>
+    <style>
+	    #container{
+		    width: 500px;
+		    height: 500px;
+	    }
+    </style>
+</head>
+ 
+<body>
+    <!-- 一、新建一个容器 -->
+    <div id="container" class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1" style="margin-right: 20px; max-width: 100%;"></div>
+    <div float="left" >
+        <h3>Address</h3>
+        Room 420, <br>
+        Integrated Scientific Research Building 2, <br>
+        No.5 Yiheyuan Road, Haidian District, <br>
+        Beijing 100871, P.R.China <br>
+        <h3>Tel</h3>
+        010-62766945
+    </div>
+</body>
+ 
+<!--三、引入高德地图的js-->
+<script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.15&key=035576e62fee8244b6bc757d81c9edc3"></script>
+ 
+<!--四、异步初始化高德地图插件-->
+<script>
+	//初始化地图插件
+	window.onload = function(){
+	    var map = new AMap.Map("container", {
+            zoom: 16, //设置地图显示的缩放级别
+            center: [116.310573,39.9909] //设置地图中心点坐标
+         });
+ 
+         // 创建一个 Marker 实例：（标记点）
+        var marker = new AMap.Marker({
+           position: new AMap.LngLat(116.3074,39.98945), // 经纬度对象，也可以是经纬度构成的一维数组[116.39, 39.9]
+           title: "北京大学综合科研2号楼",
+           icon: '../img/logos/locate.png' 
+        });
+ 
+       // 将创建的点标记添加到已有的地图实例：
+       map.add(marker);
+	}
+</script>
