@@ -1,23 +1,25 @@
 ---
 layout: page
-title: "职位"
-description: "Open positions"
+title: "实验室职位"
+description: ""
 header-img: "https://wanglabpku.github.io/img/home-bg-new.jpg"
 ---
 
-**We always have research opportunities in our lab for motivated students and postdocs. Please contact us if you're interested in our research.**
+我们实验室为积极进取的学生和博士后提供丰富的研究机会。如果您对我们的研究感兴趣，请与我们联系。
 
-## Postdoc
+## 博士后
 
-Postdoc applicants interested in joining our lab can submit a CV, a research statement with description of past and future research plans or interests, and contact information for references. 
+有兴趣加入我们实验室的博士后申请人可以提交简历、研究计划和未来的研究计划或兴趣等。
 
-## PhD Student
+## 博士研究生
 
-We are looking forward to highly motivated PhD students to join us and push forward the interesting frontier of RNA or stem cell researches and their technologies. There are two programs available to become a PhD student in our lab.
+我们期待优秀的博士生加入我们，推动RNA与干细胞研究及其技术发展。可以通过以下两个项目加入我们实验室成为博士生。
 
-- [Graduate Program in Institute Molecular Medicine, College of Future Technology](https://www.imm.pku.edu.cn/xwgg/tzgg/128308.htm)
-- [Peking-Tsinghua-NIBS Joint PhD Graduate Program](http://www.nibs.ac.cn/newsshow.php?cid=4&sid=14&id=2406)
+- [北京大学未来技术学院2021年全国优秀大学生夏令营](https://www.imm.pku.edu.cn/xwgg/tzgg/128308.htm)
+- [北京大学、清华大学和北京生命科学研究所联合培养博士研究生项目（PTN项目）2021年夏令营](http://www.nibs.ac.cn/newsshow.php?cid=4&sid=14&id=2406)
 
-## Undergraduate
+欢迎PTN项目学生进行为期两个月的轮转！
 
-We are also looking forward to excellent undergraduate students to join us.
+## 本科生
+
+我们欢迎北京大学元培学院和生命科学学院的本科生，以及PTN项目拟录取学生加入实验室进行科研训练。
