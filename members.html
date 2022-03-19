@@ -171,12 +171,12 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 <hr>
 {% for member in site.data.members %} {% if member.visible == false %}
 <div style="margin-bottom: 5px;">
-	<b>{{ member.name }}, </b>
+	<b>{{ member.name }}</b>
 	{% if member.role %}
-	<b>{{ member.role }}. </b>
+	<b>{{ member.role }}</b>
 	{% endif %}
 	{% if member.research %}
-	Now {{ member.research }}
+	现{{ member.research }}。
 	{% endif %}
 </div>
 {% endif %}{% endfor %}
