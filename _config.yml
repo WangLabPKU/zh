@@ -8,9 +8,9 @@ url: ""
 
 # Secondary Parameters
 baseurl: ""
-header-img: http://wanglabpku.github.io/img/molecule.png
+header-img: https://wanglabpku.github.io/img/molecule.png
 headercolor: "#FFFFFF"
-logo: http://wanglabpku.github.io/img/logos/camelab.png
+logo: https://wanglabpku.github.io/img/logos/camelab.png
 
 # Tertiary Parameters
 github_username:  WangLabPKU
@@ -106,7 +106,7 @@ prose:
       - name: "horizontal"
         field:
           element: "hidden"
-          value: </section></section><section markdown="1" data-background="http://wanglabpku.github.io/img/slidebackground.png"><section markdown="1">
+          value: </section></section><section markdown="1" data-background="https://wanglabpku.github.io/img/slidebackground.png"><section markdown="1">
       - name: "vertical"
         field:
           element: "hidden"
@@ -114,7 +114,7 @@ prose:
       - name: "slideinit"
         field:
           element: "hidden"
-          value: <section markdown="1" data-background="http://wanglabpku.github.io/img/slidebackground.png"><section markdown="1">
+          value: <section markdown="1" data-background="https://wanglabpku.github.io/img/slidebackground.png"><section markdown="1">
       - name: "theme"
         field:
           element: "select"

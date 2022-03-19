@@ -2,7 +2,7 @@
 layout: page
 title: "Publications"
 description: "PEER REVIEWED ORIGINAL RESEARCH PAPERS (Total citations >3000)"
-header-img: "http://wanglabpku.github.io/img/molecule.png"
+header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 - 42: Zhao YT, **\*Wang Y**. Monitoring the promoter activity of long noncoding RNAs and stem cell differentiation through knock-in of sgRNA flanked by tRNA in an intron. **Cell Discov**. 2021 Jun 15;7(1):45. [Link](https://doi.org/10.1038/s41421-021-00272-3). [PubMed](https://pubmed.ncbi.nlm.nih.gov/34127653). 
 

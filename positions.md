@@ -2,7 +2,7 @@
 layout: page
 title: "职位"
 description: "Open positions"
-header-img: "http://wanglabpku.github.io/img/home-bg-new.jpg"
+header-img: "https://wanglabpku.github.io/img/home-bg-new.jpg"
 ---
 
 **We always have research opportunities in our lab for motivated students and postdocs. Please contact us if you're interested in our research.**
