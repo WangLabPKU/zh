@@ -28,7 +28,7 @@
   role: Postdoc
   img: http://wanglabpku.github.io/img/members/hlf.jpg
   bio: 北京大学生物学博士 <br> <br>
-  research: 基因编辑技术
+  research: 生物技术
   url: 
   visible: True
 
@@ -44,7 +44,7 @@
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/zyt.jpg
   bio: 四川大学学士 <br> <br>
-  research: 长非编码RNA与CRISPR-Cas9
+  research: 长非编码RNA报告基因与筛选
   url: 
   visible: True
 
@@ -52,7 +52,7 @@
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/zxs.jpg
   bio: 中国农业大学学士 <br> <br>
-  research: 类器官研究
+  research: 类器官技术
   url: 
   visible: True
 
@@ -68,7 +68,7 @@
   role: PhD Student
   img: http://wanglabpku.github.io/img/female.png
   bio: 华中农业大学学士 <br> <br>
-  research: RNA精准编辑技术
+  research: 结构与生物技术
   url: 
   visible: True
 
@@ -76,7 +76,7 @@
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/wjing.jpg
   bio: 中国农业科学院硕士<br> <br>
-  research: 长非编码RNA与基因编辑
+  research: 生物技术
   url: 
   visible: True
 
@@ -100,7 +100,7 @@
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/cqx.jpg
   bio: 中国农业大学学士<br> <br>
-  research: RNA生物技术
+  research: 生物技术
   url: 
   visible: True
 
@@ -117,7 +117,7 @@
   role: Technician
   img: http://wanglabpku.github.io/img/members/dsj.jpg
   bio: 南昌大学理学硕士 <br> <br>
-  research: 类器官研究
+  research: 类器官与人类疾病
   url: 
   visible: True
 
@@ -133,7 +133,7 @@
   role: Undergraduate
   img: http://wanglabpku.github.io/img/female.png
   bio: 北京大学元培学院<br> <br> <br>
-  research: 基因编辑技术
+  research: 生物技术
   url: 
   visible: True
 
@@ -149,7 +149,7 @@
   role: Undergraduate
   img: http://wanglabpku.github.io/img/members/wjz.jpg
   bio: 北京大学生命科学学院<br> <br> <br>
-  research: 基因编辑技术
+  research: RNA生物技术
   url: 
   visible: True
 
@@ -157,7 +157,7 @@
   role: Undergraduate
   img: http://wanglabpku.github.io/img/members/zxy.jpg
   bio: 北京大学元培学院 <br> <br>
-  research: microRNA
+  research: microRNA与生物技术
   url: 
   visible: True
   
@@ -165,7 +165,7 @@
   role: Undergraduate
   img: http://wanglabpku.github.io/img/male.jpg
   bio: 北京大学元培学院<br> <br> <br>
-  research:
+  research: RNA生物技术
   url: 
   visible: True
 
