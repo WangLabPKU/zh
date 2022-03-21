@@ -26,7 +26,7 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 
 - 34: #Yan YL, #Zhang C, Hao J, Wang XL, Ming J, Mi L, Na J, Hu X, **\*Wang Y**. DPPA2/4 and SUMO E3 ligase PIAS4 opposingly regulate zygotic transcriptional program. _**PLoS Biology**_ 2019 Jun 21; 17(6): e3000324. [Link](https://doi.org/10.1371/journal.pbio.3000324). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226106). 
 
-- 33: #Li YP, #Duan FF, Zhao YT, Gu KL, Liao LQ, Su HB, Hao J, Zhang K, Yang N, **\*Wang Y**. A TRIM71 binding long noncoding RNA Trincr1 represses FGF/ERK signaling in embryonic stem cells. **Nature Communications**. 2019 Mar 25; 10(1): 1368. [Link](https://doi.org/10.1038/s41467-019-08911-w). [PubMed](https://pubmed.ncbi.nlm.nih.gov/30911006). 
+- 33: #Li YP, #Duan FF, Zhao YT, Gu KL, Liao LQ, Su HB, Hao J, Zhang K, Yang N, **\*Wang Y**. A TRIM71 binding long noncoding RNA Trincr1 represses FGF/ERK signaling in embryonic stem cells. _**Nature Communications**_ 2019 Mar 25; 10(1): 1368. [Link](https://doi.org/10.1038/s41467-019-08911-w). [PubMed](https://pubmed.ncbi.nlm.nih.gov/30911006). 
 
 - 32: #Wang XW, #Hu LF, Hao J, Liao LQ, Chiu YT, Shi M, **\*Wang Y**. A microRNA-inducible CRISPR-Cas9 platform serves as a microRNA sensor and cell-type-specific genome regulation tool. _**Nature Cell Biology**_ 2019 Apr; 21(4): 522-530. [Link](https://doi.org/10.1038/s41556-019-0292-7). Epub 2019 Feb 25. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30804503).
 
