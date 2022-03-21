@@ -48,9 +48,6 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 <div class="cardBox">
 	<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:10px; float:left; height:120px !important">
 	<h3>{{ member.name }}</h3>
-	{% if member.research %}
-	<b>{{ member.research }}</b>
-	{% endif %}
 	{% if member.email %}
 	<span class="social-share-googleplus"><img src="{{ "https://wanglabpku.github.io/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px"> {{member.email}}</span>
 	{% endif %}
@@ -58,6 +55,9 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 	<span class="social-share-googleplus"> <a href="{{ member.url }}" title="Google Plus"><img src="{{ "https://wanglabpku.github.io/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:20px">Website</a></span>
 	{% endif %}
 	<br>
+	{% if member.research %}
+	<b>{{ member.research }}</b>
+	{% endif %}
 	{% if member.bio %} 
 	{{ member.bio }}
 	{% endif %}

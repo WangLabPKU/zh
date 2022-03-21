@@ -67,7 +67,7 @@
 
 - name: 米黎
   role: PhD Student
-  img: http://wanglabpku.github.io/img/female.png
+  img: http://wanglabpku.github.io/img/members/lm.jpg
   bio: 华中农业大学学士 <br> <br>
   research: 结构与生物技术
   url: 
@@ -124,7 +124,7 @@
 
 - name: 刘洋
   role: Technician
-  img: http://wanglabpku.github.io/img/female.png
+  img: http://wanglabpku.github.io/img/members/ly.jpg
   bio: 广西大学硕士 <br> <br>
   research: 生物信息学
   url: 
@@ -181,7 +181,7 @@
 - name: 王茜雯
   role: 博士
   bio: 北京大学
-  research: 为在清华大学<a href="https://zhanglab.net">张强锋实验室</a>博士后从事RNA相关研究
+  research: 为清华大学<a href="https://zhanglab.net">张强锋实验室</a>博士后从事RNA相关研究
   visible: False
 
 - name: 郝菁
