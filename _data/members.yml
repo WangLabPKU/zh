@@ -76,7 +76,7 @@
 - name: 王静
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/wjing.jpg
-  bio: 中国农业科学院硕
+  bio: 中国农业科学院硕士
   research: 生物技术
   url: 
   visible: True
@@ -100,7 +100,7 @@
 - name: 程玘轩
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/cqx.jpg
-  bio: 中国农业大学学
+  bio: 中国农业大学学士
   research: 生物技术
   url: 
   visible: True
