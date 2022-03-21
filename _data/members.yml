@@ -12,7 +12,7 @@
   role: Co-PI
   img: https://www.imm.pku.edu.cn/images/content/2017-01/20170112141644371475.jpg
   email: caohuiqing(at)pku.edu.cn 
-  bio: <b>副研究员</b> <br> 北京大学未来技术学院分子医学研究所<br> <br> <br> <br>
+  bio: <b>副研究员</b> <br> 北京大学未来技术学院分子医学研究所
   url: http://www.imm.pku.edu.cn/kytd/rcdw/23688.htm
   visible: true
   
@@ -21,14 +21,14 @@
   img: http://wanglabpku.github.io/img/members/wyx.jpg
   email: wuyixia0602(at)163.com 
   bio: 
-  research: 日常事务管理<br> <br> 
+  research: 日常事务管理
   url: 
   visible: True
 
 - name: 胡鲁峰博士
   role: Postdoc
   img: http://wanglabpku.github.io/img/members/hlf.jpg
-  bio: 北京大学生物学博士 <br> <br>
+  bio: 北京大学生物学博士
   research: 生物技术
   url: 
   visible: True
@@ -36,7 +36,7 @@
 - name: 姚望博士
   role: Postdoc
   img: http://wanglabpku.github.io/img/members/yw.jpg
-  bio: 南京农业大学博士 <br> <br>
+  bio: 南京农业大学博士
   research: 早期胚胎发育
   url: 
   visible: True
@@ -44,7 +44,7 @@
 - name: 赵雨亭
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/zyt.jpg
-  bio: 四川大学学士 <br> <br>
+  bio: 四川大学学士
   research: 长非编码RNA报告基因与筛选
   url: 
   visible: True
@@ -52,7 +52,7 @@
 - name: 张晓姗
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/zxs.jpg
-  bio: 中国农业大学学士 <br> <br>
+  bio: 中国农业大学学士
   research: 类器官技术
   url: 
   visible: True
@@ -60,7 +60,7 @@
 - name: 李真
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/lz.jpg
-  bio: 湖北大学学士 <br> <br>
+  bio: 湖北大学学士
   research: 长非编码RNA
   url: 
   visible: True
@@ -68,7 +68,7 @@
 - name: 米黎
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/lm.jpg
-  bio: 华中农业大学学士 <br> <br>
+  bio: 华中农业大学学士
   research: 结构与生物技术
   url: 
   visible: True
@@ -76,7 +76,7 @@
 - name: 王静
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/wjing.jpg
-  bio: 中国农业科学院硕士<br> <br>
+  bio: 中国农业科学院硕
   research: 生物技术
   url: 
   visible: True
@@ -84,7 +84,7 @@
 - name: 王康伟
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/wkw.jpg
-  bio: 大连医科大学硕士 <br> <br>
+  bio: 大连医科大学硕士
   research: 心脏再生
   url: 
   visible: True
@@ -92,7 +92,7 @@
 - name: 石铭
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/sming.jpg
-  bio: 曲阜师范大学硕士 <br> <br>
+  bio: 曲阜师范大学硕士
   research: 早期胚胎发育
   url: 
   visible: True
@@ -100,7 +100,7 @@
 - name: 程玘轩
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/cqx.jpg
-  bio: 中国农业大学学士<br> <br>
+  bio: 中国农业大学学
   research: 生物技术
   url: 
   visible: True
@@ -109,7 +109,7 @@
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/xg.jpg
   github: JeremyTse
-  bio: 华中科技大学工学学士 <br>
+  bio: 华中科技大学工学学士 
   research: RNA生物信息学
   url: 
   visible: True
@@ -117,7 +117,7 @@
 - name: 丁双进
   role: Technician
   img: http://wanglabpku.github.io/img/members/dsj.jpg
-  bio: 南昌大学理学硕士 <br> <br>
+  bio: 南昌大学理学硕士
   research: 类器官与人类疾病
   url: 
   visible: True
@@ -125,7 +125,7 @@
 - name: 刘洋
   role: Technician
   img: http://wanglabpku.github.io/img/members/ly.jpg
-  bio: 广西大学硕士 <br> <br>
+  bio: 广西大学硕士
   research: 生物信息学
   url: 
   visible: True
@@ -133,7 +133,7 @@
 - name: 李宇轩
   role: Undergraduate
   img: http://wanglabpku.github.io/img/members/lyx.jpg
-  bio: 北京大学元培学院<br> <br> <br>
+  bio: 北京大学元培学院
   research: 生物技术
   url: 
   visible: True
@@ -141,7 +141,7 @@
 - name: 王杰
   role: Undergraduate
   img: http://wanglabpku.github.io/img/male.jpg
-  bio: 兰州大学<br> <br> <br>
+  bio: 兰州大学
   research: RNA结合蛋白
   url: 
   visible: True
@@ -149,7 +149,7 @@
 - name: 汪家震
   role: Undergraduate
   img: http://wanglabpku.github.io/img/members/wjz.jpg
-  bio: 北京大学生命科学学院<br> <br> <br>
+  bio: 北京大学生命科学学院
   research: RNA生物技术
   url: 
   visible: True
@@ -157,7 +157,7 @@
 - name: 张翔宇
   role: Undergraduate
   img: http://wanglabpku.github.io/img/members/zxy.jpg
-  bio: 北京大学元培学院 <br> <br>
+  bio: 北京大学元培学院
   research: microRNA与生物技术
   url: 
   visible: True
@@ -165,7 +165,7 @@
 - name: 李睿喆
   role: Undergraduate
   img: http://wanglabpku.github.io/img/male.jpg
-  bio: 北京大学元培学院<br> <br> <br>
+  bio: 北京大学元培学院
   research: RNA生物技术
   url: 
   visible: True
