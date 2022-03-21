@@ -46,7 +46,7 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 <hr>
 {% for member in site.data.members %} {% if member.role == 'Lab Manager' %} {% if member.visible == true %}
 <div class="cardBox">
-	<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:10px; float:left; width:120px !important">
+	<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:10px; float:left; height:120px !important">
 	<h3>{{ member.name }}</h3>
 	{% if member.research %}
 	<b>{{ member.research }}</b>

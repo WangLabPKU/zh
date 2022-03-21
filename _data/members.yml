@@ -18,7 +18,8 @@
   
 - name: 吴怡霞
   role: Lab Manager
-  img: http://wanglabpku.github.io/img/female.png
+  img: http://wanglabpku.github.io/img/members/wyx.jpg
+  email: wuyixia0602(at)163.com 
   bio: 
   research: 日常事务管理<br> <br> 
   url: 
@@ -34,7 +35,7 @@
 
 - name: 姚望博士
   role: Postdoc
-  img: http://wanglabpku.github.io/img/male.jpg
+  img: http://wanglabpku.github.io/img/members/yw.jpg
   bio: 南京农业大学博士 <br> <br>
   research: 早期胚胎发育
   url: 
@@ -131,7 +132,7 @@
 
 - name: 李宇轩
   role: Undergraduate
-  img: http://wanglabpku.github.io/img/female.png
+  img: http://wanglabpku.github.io/img/members/lyx.jpg
   bio: 北京大学元培学院<br> <br> <br>
   research: 生物技术
   url: 
@@ -169,50 +170,40 @@
   url: 
   visible: True
 
+# 前成员
+
 - name: 张超
   role: 博士
-  img: 
   bio: 北京大学
   research: 在新加坡南洋理工大学从事类器官研究
-  url: 
   visible: False
 
 - name: 王茜雯
   role: 博士
-  img: 
   bio: 北京大学
   research: 为在清华大学<a href="https://zhanglab.net">张强锋实验室</a>博士后从事RNA相关研究
-  url: 
   visible: False
 
 - name: 郝菁
   role: 博士
-  img: 
   bio: 北京大学
   research: 
-  url: 
   visible: False
 
 - name: 段菲菲
   role: 博士
-  img: 
   bio: 北京大学
   research: 
-  url: 
   visible: False
 
 - name: 王绍华
   role: 博士
-  img: 
   bio: 北京大学
   research: 
-  url: 
   visible: False
 
 - name: 张艺雯
   role: 技术员
-  img: 
   bio: 北京大学
   research: 
-  url: 
   visible: False
