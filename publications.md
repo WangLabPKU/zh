@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pub
 title: "实验室文章"
 description: "同行评审的原始研究论文 总引用3000余次"
 header-img: "https://wanglabpku.github.io/img/molecule.png"
