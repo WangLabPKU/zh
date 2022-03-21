@@ -9,7 +9,7 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 	<hr>
 {% for member in site.data.members %} {% if member.role == 'PI' %} {% if member.visible == true %}
 
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:12px; float:left; width:160px !important">
+	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:12px; float:left; width:156px !important">
 	<h2>{{ member.name }}</h2>
 	{% if member.email %}
 	<span class="social-share-googleplus"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px"> {{member.email}}</span>
@@ -49,7 +49,7 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 {% for member in site.data.members %} {% if member.role == 'Lab Manager' %} {% if member.visible == true %}
 	<div class="cardBox">
 		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; height:120px !important">
-		<h3 style="font-size: 22px;">{{ member.name }}</h3>
+		<h3 style="font-size: 23px;">{{ member.name }}</h3>
 	{% if member.email %}
 		<span class="social-share-googleplus"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px"> {{member.email}}</span>
 	{% endif %}
@@ -78,9 +78,9 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 {% for member in site.data.members %} {% if member.role == 'Postdoc' %} {% if member.visible == true %}
 	<div class="cardBox">
 		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
-		<h3 style="font-size: 22px;">{{ member.name }}</h3>
+		<h3 style="font-size: 23px;">{{ member.name }}</h3>
 	{% if member.research %}
-		<b>{{ member.research }}</b>
+		<b style="margin-top: 3px;">{{ member.research }}</b>
 	{% endif %}
 	{% if member.github %} 
 		<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
@@ -90,7 +90,7 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 	{% endif %}
 		<br>
 	{% if member.bio %} 
-		{{ member.bio }}
+		<p style="margin-top: 3px;">{{ member.bio }}</p>
 	{% endif %}
 	</div>
 {% endif %}{% endif %}{% endfor %}
@@ -102,16 +102,16 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 {% for member in site.data.members %} {% if member.role == 'PhD Student' %} {% if member.visible == true %}
 	<div class="cardBox">
 		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
-		<h3 style="font-size: 22px;">{{ member.name }}</h3>
+		<h3 style="font-size: 23px;">{{ member.name }}</h3>
 	{% if member.research %}
-		<b>{{ member.research }}</b>
+		<b style="margin-top: 3px;">{{ member.research }}</b>
 	{% endif %}
 	{% if member.github %} 
 		<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
 	{% endif %}
 		<br>
 	{% if member.bio %} 
-		{{ member.bio }}
+		<p style="margin-top: 3px;">{{ member.bio }}</p>
 	{% endif %}
 	</div>
 {% endif %}{% endif %}{% endfor %}
@@ -123,16 +123,16 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 {% for member in site.data.members %} {% if member.role == 'Technician' %} {% if member.visible == true %}
 	<div class="cardBox">
 		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
-		<h3 style="font-size: 22px;">{{ member.name }}</h3>
+		<h3 style="font-size: 23px;">{{ member.name }}</h3>
 	{% if member.research %}
-		<b>{{ member.research }}</b>
+		<b style="margin-top: 3px;">{{ member.research }}</b>
 	{% endif %}
 	{% if member.github %} 
 		<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
 	{% endif %}
 		<br>
 	{% if member.bio %} 
-	{{ member.bio }}
+	<p style="margin-top: 3px;">{{ member.bio }}</p>
 	{% endif %}
 	</div>	
 {% endif %}{% endif %}{% endfor %}
@@ -144,16 +144,16 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 {% for member in site.data.members %} {% if member.role == 'Undergraduate' %} {% if member.visible == true %}
 	<div class="cardBox">
 		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
-		<h3 style="font-size: 22px;">{{ member.name }}</h3>
+		<h3 style="font-size: 23px;">{{ member.name }}</h3>
 	{% if member.research %}
-		<b>{{ member.research }}</b>
+		<b style="margin-top: 3px;">{{ member.research }}</b>
 	{% endif %}
 	{% if member.github %} 
 		<span class="social-share-googleplus"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
 	{% endif %}
 		<br>
 	{% if member.bio %} 
-		{{ member.bio }}
+		<p style="margin-top: 3px;">{{ member.bio }}</p>
 	{% endif %}
 	</div>
 {% endif %}{% endif %}{% endfor %}
@@ -165,12 +165,9 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 	<hr>
 {% for member in site.data.members %} {% if member.visible == false %}
 	<div style="margin-bottom: 5px;">
-		<b>{{ member.name }}, </b>
-	{% if member.role %}
-		<b>{{ member.role }}. </b>
-	{% endif %}
+		<b>{{ member.name }}{{ member.role }}</b>
 	{% if member.research %}
-	Now {{ member.research }}
+	现{{ member.research }}。
 	{% endif %}
 	</div>
 {% endif %}{% endfor %}
