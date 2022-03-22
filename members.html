@@ -164,7 +164,7 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 	<h1>实验室前成员</h1>
 	<hr>
 {% for member in site.data.members %} {% if member.visible == false %}
-	<div style="margin-bottom: 5px;">
+	<div style="margin-bottom: 5px; font-size: 17px;">
 		<b>{{ member.name }}{{ member.role }}</b>
 	{% if member.research %}
 	现{{ member.research }}。

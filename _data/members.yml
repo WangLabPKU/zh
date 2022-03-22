@@ -172,38 +172,87 @@
 
 # 前成员
 
-- name: 张超
+- name: 李亚朴
   role: 博士
-  bio: 北京大学
-  research: 在新加坡南洋理工大学从事类器官研究
+  bio: 
+  visible: False
+
+- name: 杨熹
+  role: 博士
+  bio: 
+  visible: False
+
+- name: 郭文婷
+  role: 博士
+  bio: 
+  visible: False
+
+- name: 闫跃龙
+  role: 博士
+  bio: 
+  visible: False
+
+- name: 顾凯丽
+  role: 博士
+  bio: 
+  visible: False
+
+- name: 闫瑛
+  role: 博士
+  bio: 
   visible: False
 
 - name: 王茜雯
   role: 博士
-  bio: 北京大学
-  research: 为清华大学<a href="https://zhanglab.net">张强锋实验室</a>博士后从事RNA相关研究
-  visible: False
-
-- name: 郝菁
-  role: 博士
-  bio: 北京大学
-  research: 
-  visible: False
-
-- name: 段菲菲
-  role: 博士
-  bio: 北京大学
-  research: 
+  bio: 为清华大学<a href="https://zhanglab.net">张强锋实验室</a>博士后从事RNA相关研究
   visible: False
 
 - name: 王绍华
   role: 博士
-  bio: 北京大学
-  research: 
+  bio: 
+  visible: False
+
+- name: 吴达仁
+  role: 博士
+  bio: 
+  visible: False
+
+- name: 张学涛
+  role: 博士
+  bio: 
+  visible: False
+
+- name: 廖乐祺
+  role: 博士
+  bio: 
+  visible: False
+
+- name: 张超
+  role: 博士
+  bio: 在新加坡南洋理工大学从事类器官技术研究
+  visible: False
+
+- name: 郝菁
+  role: 博士
+  bio: 
+  visible: False
+
+- name: 段菲菲
+  role: 博士
+  bio: 
+  visible: False
+
+- name: 张新新
+  role: 硕士
+  bio: 
+  visible: False
+
+- name: 邱雅姿
+  role: 硕士
+  bio: 
   visible: False
 
 - name: 张艺雯
   role: 技术员
-  bio: 北京大学
-  research: 
+  bio: 
   visible: False
