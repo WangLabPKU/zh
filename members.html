@@ -4,7 +4,7 @@ title: "实验室成员"
 description: "在CAMELab工作和学习的成员"
 header-img: "https://wanglabpku.github.io/img/newyear.png"
 ---
-<div style="clear:both; margin-top: 5px;">
+<div style="clear:both; margin-top: 5px; font-size: 20px;">
 	<h1>PI</h1>
 	<hr>
 {% for member in site.data.members %} {% if member.role == 'PI' %} {% if member.visible == true %}
@@ -24,7 +24,7 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 {% endif %}{% endif %}{% endfor %}
 </div>
 <br style="clear:both;">
-<div style="clear:both; margin-top: 5px;">
+<div style="clear:both; margin-top: 5px; font-size: 20px;">
 	<h1>Co-PI</h1>
 	<hr>
 {% for member in site.data.members %} {% if member.role == 'Co-PI' %} {% if member.visible == true %}
@@ -166,8 +166,8 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 {% for member in site.data.members %} {% if member.visible == false %}
 	<div style="margin-bottom: 5px; font-size: 17px;">
 		<b>{{ member.name }}{{ member.role }}</b>
-	{% if member.research %}
-	现{{ member.research }}。
+	{% if member.bio %}
+	现{{ member.bio }}。
 	{% endif %}
 	</div>
 {% endif %}{% endfor %}
