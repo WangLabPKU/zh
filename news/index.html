@@ -1,0 +1,27 @@
+---
+layout: news
+title: "News"
+description: "All the latest"
+header-img: "img/molecule.png"
+---
+<link rel="stylesheet" href="../css/timeline.css">
+<div class="container">
+	{% for news in site.data.news %}
+	<div class="timeline-item" date-is='{{news.date}}'>
+		<div class="timeline-content">
+			<h1>{{news.title}}</h1>
+			{% if news.abstract %}
+			<p>
+				{{news.abstract}}
+				{% if news.url %}
+				<a href="{{ site.baseurl }}/news/{{ news.url }}"><button type="button" class="button1">More</button></a>
+				{% endif %}
+			</p>
+			{% endif %}
+			{% if news.img %}<div style='align-items: center;'>{% for url in news.img %}
+				<img src="{{ url }}" style='margin:5px; width: {{ news.width }};'>
+			{% endfor %}</div>{% endif %}
+		</div>
+	</div>
+	{% endfor %}	
+</div>
