@@ -8,7 +8,7 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 
 - 45: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews. RNA**_ 2022 Apr 8:e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
 
-- 44: Wang SH, Hao J, Zhang C, Duan FF, Chiu YT, Shi M, Huang X, Yang J, **\*Cao H**, **\*Wang Y**. KLF17 promotes human naive pluripotency through repressing MAPK3 and ZIC2. _**Science China-Life Sciences**_ 2022 Apr 1. [Link](https://10.1007/s11427-021-2076-x). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35391627).
+- 44: Wang SH, Hao J, Zhang C, Duan FF, Chiu YT, Shi M, Huang X, Yang J, **\*Cao H**, **\*Wang Y**. _KLF17_ promotes human naive pluripotency through repressing _MAPK3_ and _ZIC2_. _**Science China-Life Sciences**_ 2022 Apr 1. [Link](https://10.1007/s11427-021-2076-x). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35391627).
 
 #### 2021年及之前
 
@@ -18,7 +18,7 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 
 - 41: Wang SH, Zhang C and **\*Wang Y**. microRNA regulation of pluripotent state transition. _**Essays in Biochemistry**_ 2020 Dec 7; 64(6): 947-954. [Link](https://doi.org/10.1042/EBC20200028). [PubMed](https://pubmed.ncbi.nlm.nih.gov/33034348).
 
-- 40: #Hao J, #Yang X, Zhang C, Zhang XT, Shi M, Wang SH, Mi L, Zhao YT, Cao H and **\*Wang Y**. KLF3 promotes the 8-cell-like transcriptional state in pluripotent stem cells. _**Cell Proliferation**_ 2020 Nov; 53(11): e12914. [Link](https://doi.org/10.1111/cpr.12914). Epub 2020 Sep 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32990380). 
+- 40: #Hao J, #Yang X, Zhang C, Zhang XT, Shi M, Wang SH, Mi L, Zhao YT, **Cao H** and **\*Wang Y**. KLF3 promotes the 8-cell-like transcriptional state in pluripotent stem cells. _**Cell Proliferation**_ 2020 Nov; 53(11): e12914. [Link](https://doi.org/10.1111/cpr.12914). Epub 2020 Sep 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32990380). 
 
 - 39: #Guo CJ, #Ma XK, Xing YH, Zheng CC, Xu YF, Shan L, Zhang J, Wang S, **Wang Y**, Carmichael GG, Yang L, \*Chen LL. Distinct Processing of lncRNAs Contributes to Non-conserved Functions in Stem Cells. _**Cell**_ 2020 Apr 30; 181(3): 621-636.e22. [Link](https://doi.org/10.1016/j.cell.2020.03.006). Epub 2020 Apr 6. [PubMed](https://pubmed.ncbi.nlm.nih.gov/32259487).
 
@@ -26,9 +26,9 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 
 - 37: #Zhang C, #Yan YL, #Hao J, **\*Wang Y**. Cellular redox state as a critical factor in initiating early embryonic-like program in embryonic stem cells. _**Cell Discovery**_ 2019 Dec 10; 5: 59. [Link](https://doi.org/10.1038/s41421-019-0127-5). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31839984). 
 
-- 36: Shi M, Hao J, Wang XW, Liao LQ, **\*Cao H**, **\*Wang Y**. Functional Dissection of pri-miR-290~295 in Dgcr8 Knockout Mouse Embryonic Stem Cells. _**International Journal of Molecular Science**_ 2019 Sep 5; 20(18): 4345. [Link](https://doi.org/10.3390/ijms20184345). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31491855). 
+- 36: Shi M, Hao J, Wang XW, Liao LQ, **\*Cao H**, **\*Wang Y**. Functional Dissection of pri-miR-290~295 in Dgcr8 Knockout Mouse Embryonic Stem Cells. _**International Journal of Molecular Sciences**_ 2019 Sep 5; 20(18): 4345. [Link](https://doi.org/10.3390/ijms20184345). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31491855). 
 
-- 35: Wang Z, Wang L, Liu W, Hu D, Gao Y, Ge Q, Liu X, Li L, **\*Wang Y**, \*Wang S, \*Li C. Pathogenic mechanism and gene correction for LQTS-causing double mutations in KCNQ1 using a pluripotent stem cell model. _**Stem Cell Research**_ 2019 Jul; 38: 101483. [Link](https://doi.org/10.1016/j.scr.2019.101483). Epub 2019 Jun 11. 2019 Sep 25;:101526. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226583).
+- 35: Wang Z, Wang L, Liu W, Hu D, Gao Y, Ge Q, Liu X, Li L, **\*Wang Y**, \*Wang S, \*Li C. Pathogenic mechanism and gene correction for LQTS-causing double mutations in KCNQ1 using a pluripotent stem cell model. _**Stem Cell Research**_ 2019 Jul; 38: 101483. [Link](https://doi.org/10.1016/j.scr.2019.101483). Epub 2019 Jun 11. [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226583).
 
 - 34: #Yan YL, #Zhang C, Hao J, Wang XL, Ming J, Mi L, Na J, Hu X, **\*Wang Y**. DPPA2/4 and SUMO E3 ligase PIAS4 opposingly regulate zygotic transcriptional program. _**PLoS Biology**_ 2019 Jun 21; 17(6): e3000324. [Link](https://doi.org/10.1371/journal.pbio.3000324). [PubMed](https://pubmed.ncbi.nlm.nih.gov/31226106). 
 
@@ -36,9 +36,9 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 
 - 32: #Wang XW, #Hu LF, Hao J, Liao LQ, Chiu YT, Shi M, **\*Wang Y**. A microRNA-inducible CRISPR-Cas9 platform serves as a microRNA sensor and cell-type-specific genome regulation tool. _**Nature Cell Biology**_ 2019 Apr; 21(4): 522-530. [Link](https://doi.org/10.1038/s41556-019-0292-7). Epub 2019 Feb 25. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30804503).
 
-- 31: Guo WT, **\*Wang Y**. Dgcr8 knockout approaches to understand microRNA functions in vitro and in vivo. _**Cellular and Molecular Life Sciences**_ 2019 May; 76(9): 1697-1711. [Link](https://doi.org/10.1007/s00018-019-03020-9). Epub 2019 Jan 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30694346).
+- 31: Guo WT, **\*Wang Y**. _Dgcr8_ knockout approaches to understand microRNA functions in vitro and in vivo. _**Cellular and Molecular Life Sciences**_ 2019 May; 76(9): 1697-1711. [Link](https://doi.org/10.1007/s00018-019-03020-9). Epub 2019 Jan 29. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30694346).
 
-- 30: Chen X, Wang L, Huang R, Qiu H, Wang P, Wu D, Zhu Y, Ming J, **Wang Y**, Wang J, \*Na J. Dgcr8 deletion in the primitive heart uncovered novel microRNA regulating the balance of cardiac-vascular gene program. _**Protein & Cell**_ 2019 May; 10(5): 327-346. [Link](https://doi.org/10.1007/s13238-018-0572-1). Epub 2018 Aug 20. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30128894). 
+- 30: Chen X, Wang L, Huang R, Qiu H, Wang P, Wu D, Zhu Y, Ming J, **Wang Y**, Wang J, \*Na J. _Dgcr8_ deletion in the primitive heart uncovered novel microRNA regulating the balance of cardiac-vascular gene program. _**Protein & Cell**_ 2019 May; 10(5): 327-346. [Link](https://doi.org/10.1007/s13238-018-0572-1). Epub 2018 Aug 20. [PubMed](https://pubmed.ncbi.nlm.nih.gov/30128894). 
 
 - 29: #Wu DR, #Gu KL, Yu JC, Fu X, Wang XW, Guo WT, Liao LQ, Zhu H, Zhang XS, \*Hui J, **\*Wang Y**. Opposing roles of miR-294 and MBNL1/2 in shaping the gene regulatory network of embryonic stem cells. _**EMBO Reports**_ 2018 Jun; 19(6): e45657. [Link](https://doi.org/10.15252/embr.201745657). Epub 2018 May 7. [PubMed](https://pubmed.ncbi.nlm.nih.gov/29735517). 
 

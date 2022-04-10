@@ -15,7 +15,7 @@ p {
 
 .container {
   max-width: 1024px;
-  width: 90%;
+  width: 96%;
   margin: 0 auto;
 }
 
@@ -47,7 +47,7 @@ p {
   display: block;
   top: 0.5em;
   position: absolute;
-  left: -7px;
+  left: -6px;
   border-radius: 10px;
   content: '';
   border: 2px solid rgba(0, 0, 0, 0.3);
