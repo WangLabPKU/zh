@@ -17,8 +17,8 @@ header-img: "img/molecule.png"
 			{% endif %}
 		</p>
 		{% endif %}
-		{% if news.img %}<div style='align-items: center;'>{% for url in news.img %}
-			<img src="{{ url }}" style='margin:5px; width: {{ news.width }};'>
+		{% if news.img %}<div align="center">{% for url in news.img %}
+			<img src="{{ url }}" style='margin:0.4%; max-width: {{ news.width }};'>
 		{% endfor %}</div>{% endif %}
 	</div>
 </div>

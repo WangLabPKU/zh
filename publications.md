@@ -6,7 +6,9 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
-- 44: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews. RNA**_ 2022 Apr 8:e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
+- 45: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews. RNA**_ 2022 Apr 8:e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
+
+- 44: Wang SH, Hao J, Zhang C, Duan FF, Chiu YT, Shi M, Huang X, Yang J, **\*Cao H**, **\*Wang Y**. KLF17 promotes human naive pluripotency through repressing MAPK3 and ZIC2. _**Science China-Life Sciences**_ 2022 Apr 1. [Link](https://10.1007/s11427-021-2076-x). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35391627).
 
 #### 2021年及之前
 
