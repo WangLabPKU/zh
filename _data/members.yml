@@ -45,7 +45,7 @@
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/zyt.jpg
   bio: 四川大学学士
-  research: 长非编码RNA报告基因与筛选
+  research: 长非编码RNA报告系统与筛选
   url: 
   visible: True
 
@@ -119,14 +119,6 @@
   img: http://wanglabpku.github.io/img/members/dsj.jpg
   bio: 南昌大学理学硕士
   research: 类器官与人类疾病
-  url: 
-  visible: True
-
-- name: 刘洋
-  role: Technician
-  img: http://wanglabpku.github.io/img/members/ly.jpg
-  bio: 广西大学硕士
-  research: 生物信息学
   url: 
   visible: True
 
@@ -255,4 +247,9 @@
 - name: 张艺雯
   role: 技术员
   bio: 
+  visible: False
+
+- name: 刘洋
+  role: 技术员
+  bio:
   visible: False
