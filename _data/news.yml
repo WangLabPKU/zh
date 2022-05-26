@@ -1,14 +1,21 @@
-- title: 综述 | 通过指引RNA工程控制CRISPR-Cas9
+- title: 恭喜张晓姗和赵雨亭通过博士学位答辩！
+  date: May 26, 2022
+  abstract: 
+  img: https://wanglabpku.github.io/img/news/2022defense.jpg
+  width: 98%
+  url: thesis2022
+
+- title: 综述 | 通过向导RNA工程控制CRISPR-Cas9
   date: 2022年4月8日
   abstract: 恭喜胡鲁峰、李宇轩、汪家震和赵雨亭的综述文章发表在《Wiley Interdisciplinary Reviews. RNA》上&#65281
-  img: /img/news/WRNA2022.png
+  img: https://wanglabpku.github.io/img/news/WRNA2022.png
   width: 98%
   url:
 
 - title: KLF17通过抑制MAPK3和ZIC2促进人类原始多能性
   date: 2022年4月1日
   abstract: 恭喜王绍华、郝菁、张超、段菲菲、邱雅姿和石铭的工作发表在《Science China-Life Sciences》上&#65281这是实验室第一篇人干细胞的文章&#65281
-  img: /img/news/SCLS2022.png
+  img: https://wanglabpku.github.io/img/news/SCLS2022.png
   width: 98%
   url:
 
@@ -27,13 +34,13 @@
 - title: 实验室庆祝2022年的到来
   date: 2021年12月31日
   abstract: 
-  img: [/img/news/newyear.jpg,/img/news/diet.jpg]
+  img: [https://wanglabpku.github.io/img/news/newyear.jpg,https://wanglabpku.github.io/img/news/diet.jpg]
   width: 48%
   url: 
 
 - title: 自然·通讯 | 我们发现 Trincr1 lncRNA 可以调节 ESC 的 FGF/ERK 信号和自我更新
   date: 2019年3月26日
   abstract: CAMELab和合作实验室发现了抑制FGF/ERK信号通路的长链非编码RNA&#65292并分析了促进胚胎干细胞自我更新的功能和机制。
-  img: /img/news/NC2019.png
+  img: https://wanglabpku.github.io/img/news/NC2019.png
   width: 98%
   url: pro1
