@@ -115,7 +115,7 @@
   visible: True
 
 - name: 丁双进
-  role: Technician
+  role: PhD Student
   img: http://wanglabpku.github.io/img/members/dsj.jpg
   bio: 南昌大学理学硕士
   research: 类器官与人类疾病
@@ -123,9 +123,9 @@
   visible: True
 
 - name: 李宇轩
-  role: Undergraduate
+  role: PhD Student
   img: http://wanglabpku.github.io/img/members/lyx.jpg
-  bio: 北京大学元培学院
+  bio: 北京大学学士
   research: 生物技术
   url: 
   visible: True
@@ -133,7 +133,7 @@
 - name: 王杰
   role: Undergraduate
   img: http://wanglabpku.github.io/img/male.jpg
-  bio: 兰州大学
+  bio: 兰州大学学士
   research: RNA结合蛋白
   url: 
   visible: True
@@ -159,6 +159,22 @@
   img: http://wanglabpku.github.io/img/male.jpg
   bio: 北京大学元培学院
   research: RNA生物技术
+  url: 
+  visible: True
+
+- name: 阴远钧
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/male.jpg
+  bio: 北京大学生命科学学院
+  research: 
+  url: 
+  visible: True
+
+- name: 王存远
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/male.jpg
+  bio: 北京大学生命科学学院
+  research: 
   url: 
   visible: True
 
@@ -196,7 +212,7 @@
 
 - name: 王茜雯
   role: 博士
-  bio: 为清华大学<a href="https://zhanglab.net">张强锋实验室</a>博士后从事RNA相关研究
+  bio: 为清华大学<a href="https://zhanglab.net">张强锋实验室</a>博士后&#65292从事RNA相关研究
   visible: False
 
 - name: 王绍华
@@ -242,6 +258,11 @@
 - name: 邱雅姿
   role: 硕士
   bio: 
+  visible: False
+
+- name: 何天恩
+  role: 本科生
+  bio: 在英国牛津大学攻读博士学位&#65292 2022年北京市普通高等学校优秀毕业生和北京大学优秀毕业生
   visible: False
 
 - name: 张艺雯

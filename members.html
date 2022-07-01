@@ -118,9 +118,9 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 </div>
 <br style="clear:both;">
 <div style="clear:both; margin-top: 5px;">
-	<h1>技术员</h1>
+	<h1>轮转生</h1>
 	<hr>
-{% for member in site.data.members %} {% if member.role == 'Technician' %} {% if member.visible == true %}
+{% for member in site.data.members %} {% if member.role == 'Rotation Student' %} {% if member.visible == true %}
 	<div class="cardBox">
 		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
 		<h3 style="font-size: 25px;">{{ member.name }}</h3>
