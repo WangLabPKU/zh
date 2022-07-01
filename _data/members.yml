@@ -131,7 +131,7 @@
   visible: True
 
 - name: 王杰
-  role: Undergraduate
+  role: Rotation Student
   img: http://wanglabpku.github.io/img/male.jpg
   bio: 兰州大学学士
   research: RNA结合蛋白
@@ -261,7 +261,7 @@
   visible: False
 
 - name: 何天恩
-  role: 本科生
+  role: 学士
   bio: 在英国牛津大学攻读博士学位&#65292 2022年北京市普通高等学校优秀毕业生和北京大学优秀毕业生
   visible: False
 
