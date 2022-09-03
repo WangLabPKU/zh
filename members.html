@@ -10,7 +10,7 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 {% for member in site.data.members %} {% if member.role == 'PI' %} {% if member.visible == true %}
 
 	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:12px; float:left; width:156px !important">
-	<h2>{{ member.name }}</h2>
+	<h2>{{ member.name }}博士</h2>
 	{% if member.email %}
 	<span class="social-share-googleplus" style="margin: 2px; font-size: 17px;"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px; margin-right: 3px;">{{member.email}} </span>
 	{% endif %}
@@ -29,7 +29,7 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 	<hr>
 {% for member in site.data.members %} {% if member.role == 'Co-PI' %} {% if member.visible == true %}
 	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:12px; float:left; width:152px !important">
-	<h2>{{ member.name }}</h2>
+	<h2>{{ member.name }}博士</h2>
 	{% if member.email %}
 	<span class="social-share-googleplus" style="margin: 2px; font-size: 17px;"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px; margin-right: 3px;">{{member.email}} </span>
 	{% endif %}
@@ -78,7 +78,7 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
 {% for member in site.data.members %} {% if member.role == 'Postdoc' %} {% if member.visible == true %}
 	<div class="cardBox">
 		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
-		<h3 style="font-size: 25px;">{{ member.name }}</h3>
+		<h3 style="font-size: 25px;">{{ member.name }}博士</h3>
 	{% if member.research %}
 		<b style="margin-top: 3px;">{{ member.research }}</b>
 	{% endif %}

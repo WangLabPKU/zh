@@ -1,6 +1,6 @@
 # Members
 
-- name: 汪阳明博士
+- name: 汪阳明
   role: PI
   img: http://wanglabpku.github.io/img/members/wym.jpg
   email: yangming.wang(at)pku.edu.cn 
@@ -8,7 +8,7 @@
   url: https://future.pku.edu.cn/jsdw/jy/fzyxs1/4185484966f94b3dbb2ede3151b3913a.htm
   visible: true
    
-- name: 曹慧青博士
+- name: 曹慧青
   role: Co-PI
   img: https://www.imm.pku.edu.cn/images/content/2017-01/20170112141644371475.jpg
   email: caohuiqing(at)pku.edu.cn 
@@ -25,7 +25,7 @@
   url: 
   visible: True
 
-- name: 胡鲁峰博士
+- name: 胡鲁峰
   role: Postdoc
   img: http://wanglabpku.github.io/img/members/hlf.jpg
   bio: 北京大学生物学博士
@@ -33,7 +33,7 @@
   url: 
   visible: True
 
-- name: 姚望博士
+- name: 姚望
   role: Postdoc
   img: http://wanglabpku.github.io/img/members/yw.jpg
   bio: 南京农业大学博士
