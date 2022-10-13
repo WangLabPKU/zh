@@ -84,7 +84,7 @@
 - name: 石铭
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/sming.jpg
-  bio: 曲阜师范大学硕士
+  bio: 曲阜师范大学
   research: 早期胚胎发育
   url: 
   visible: True
@@ -166,7 +166,7 @@
   role: Undergraduate
   img: http://wanglabpku.github.io/img/male.jpg
   bio: 北京大学生命科学学院
-  research: 
+  research: 生物技术
   url: 
   visible: True
 
@@ -174,7 +174,7 @@
   role: Undergraduate
   img: http://wanglabpku.github.io/img/male.jpg
   bio: 北京大学生命科学学院
-  research: 
+  research: 生物技术
   url: 
   visible: True
 
