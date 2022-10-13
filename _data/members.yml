@@ -145,6 +145,14 @@
   research: microRNA与生物技术
   url: 
   visible: True
+
+- name: 韩宗霖
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/members/hzl.jpg
+  bio: 华南理工大学
+  research: 生物技术
+  url: 
+  visible: True
   
 - name: 李睿喆
   role: Undergraduate
