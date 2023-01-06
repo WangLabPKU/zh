@@ -123,10 +123,18 @@
   visible: True
 
 - name: 王杰
-  role: Rotation Student
+  role: PhD Student
   img: http://wanglabpku.github.io/img/members/wjie.jpg
   bio: 兰州大学学士
   research: RNA结合蛋白
+  url: 
+  visible: True
+
+- name: 刘雅文
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/wjie.jpg
+  bio: 北京大学硕士
+  research: 早期胚胎发育
   url: 
   visible: True
 
