@@ -6,7 +6,7 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
-- 46: #Mi L, #Shi M, Li YX, Xie G, Rao X, Wu D, Cheng A, Niu M, Xu F, Yu Y, Gao N, Wei W, Wang X, **\*Wang Y**. DddA homolog search and engineering expand sequence compatibility of mitochondrial base editing. _**Nature Communications**_ 2023 Feb; 14(1): 874. [Link](https://doi.org/10.1038/s41467-023-36600-2). Epub ahead of print.
+- 46: #Mi L, #Shi M, Li YX, Xie G, Rao X, Wu D, Cheng A, Niu M, Xu F, Yu Y, Gao N, Wei W, Wang X, **\*Wang Y**. DddA homolog search and engineering expand sequence compatibility of mitochondrial base editing. _**Nature Communications**_ 2023 Feb 16;14(1):874. [Link](https://doi.org/10.1038/s41467-023-36600-2). [PubMed](https://pubmed.ncbi.nlm.nih.gov/36797253).
 
 - 45: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews. RNA**_ 2023 Jan;14(1):e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub 2022 Apr 8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
 
