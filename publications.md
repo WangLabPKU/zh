@@ -6,6 +6,8 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
+- 49: #Cui Y, #Qi Y, #Ding L, Ding S, Han Z, **\*Wang Y**, #\*Du P. miRNA dosage control in development and human disease. Trends Cell Biol. 2023 Jul 5:S0962-8924(23)00105-8. [Link](https://doi.org/10.1016/j.tcb.2023.05.009). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37419737).
+
 - 48: #Mi L, #Shi M, Li YX, Xie G, Rao X, Wu D, Cheng A, Niu M, Xu F, Yu Y, Gao N, Wei W, Wang X, **\*Wang Y**. DddA homolog search and engineering expand sequence compatibility of mitochondrial base editing. _**Nature Communications**_ 2023 Feb 16; 14(1): 874. [Link](https://doi.org/10.1038/s41467-023-36600-2). [PubMed](https://pubmed.ncbi.nlm.nih.gov/36797253).
 
 - 47: Huang R, Liu J, Chen X, Zhi Y, Ding S, Ming J, Li Y, **Wang Y**, \*Na J. A long non-coding RNA LncSync regulates mouse cardiomyocyte homeostasis and cardiac hypertrophy through coordination of miRNA actions. _**Protein & Cell**_ 2023 Mar 16; 14(2):153-157. [Link](https://doi.org/10.1093/procel/pwac019). Epub 2022 May 28. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36929003).
