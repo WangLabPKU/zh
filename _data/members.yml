@@ -116,7 +116,7 @@
 
 - name: 刘雅文
   role: PhD Student
-  img: http://wanglabpku.github.io/img/female.png
+  img: http://wanglabpku.github.io/img/members/lyw.jpg
   bio: 北京大学硕士
   research: 早期胚胎发育
   url: 
@@ -156,6 +156,7 @@
 
 - name: 黄启睿
   role: Undergraduate
+  img: http://wanglabpku.github.io/img/male.jpg
   bio: 北京大学工学院
   research: 生物医学工程
   url: 
