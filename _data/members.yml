@@ -156,9 +156,17 @@
 
 - name: 黄启睿
   role: Undergraduate
-  img: http://wanglabpku.github.io/img/male.jpg
+  img: http://wanglabpku.github.io/img/members/hqr.jpg
   bio: 北京大学工学院
   research: 生物医学工程
+  url: 
+  visible: True
+
+- name: 万子力
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/members/wzl.jpg
+  bio: 山东大学
+  research: 生物技术
   url: 
   visible: True
 
