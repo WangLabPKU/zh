@@ -1,30 +1,32 @@
 ---
 layout: pub
 title: "实验室文章"
-description: "同行评审的原始研究论文 <br>总引用3500余次 H指数26"
+description: "同行评审的原始研究论文 <br>总引用5000余次 H指数26"
 header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
-- 52: #Shi F, #Zhang K, Cheng QX, Che S, Zhi S, Yu Z, Liu F, Duan FF, **\*Wang Y**, \*Yang N. Molecular mechanism governing RNA-binding property of mammalian TRIM71 protein. _**Science Bulletin**_ 2023 Nov 21. [Link](https://doi.org/10.1016/j.scib.2023.11.041). Epub ahead of print.
+- 53: #Huang W, #Xiong T, #Zhao YT, Heng J, Han G, Wang P, Zhao Z, Shi M, Li J, Wang JZ, Wu YX, Liu F, \*Xi JJ, **\*Wang Y**, \*Zhang QC. Computational prediction and experimental validation identify functionally conserved lncRNAs from zebrafish to human. _**Nature Genetics**_ 2024 Jan 9. [Link](https://doi.org/10.1038/s41588-023-01620-7). Epub ahead of print.
 
-- 51: Wei X, Yu S, Zhang T, Liu L, Wang X, Wang X, Chan YS, **Wang Y**, Meng S, \*Chen YG. MicroRNA-200 Loaded Lipid Nanoparticles Promote Intestinal Epithelium Regeneration in Canonical MicroRNA-Deficient Mice. _**ACS Nano**_ 2023 Nov 8. [Link](https://doi.org/10.1021/acsnano.3c08030). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37939210).
+- 52: #Shi F, #Zhang K, Cheng QX, Che S, Zhi S, Yu Z, Liu F, Duan FF, **\*Wang Y**, \*Yang N. Molecular mechanism governing RNA-binding property of mammalian TRIM71 protein. _**Science Bulletin**_ 2023 Nov 21. [Link](https://doi.org/10.1016/j.scib.2023.11.041). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38036331).
+
+- 51: Wei X, Yu S, Zhang T, Liu L, Wang X, Wang X, Chan YS, **Wang Y**, Meng S, \*Chen YG. MicroRNA-200 Loaded Lipid Nanoparticles Promote Intestinal Epithelium Regeneration in Canonical MicroRNA-Deficient Mice. _**ACS Nano**_ 2023 Nov 28; 17(22): 22901-22915. [Link](https://doi.org/10.1021/acsnano.3c08030). Epub 2023 Nov 8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37939210).
 
 - 50: Zhang XS, Xie G, Ma H, Ding S, Wu YX, Fei Y, Cheng Q, Huang Y, **\*Wang Y**. Highly reproducible and cost-effective one-pot organoid differentiation using a novel platform based on PF-127 triggered spheroid assembly. _**Biofabrication**_ 2023 Aug 21; 15(4). [Link](https://doi.org/10.1088/1758-5090/acee21). [PubMed](https://pubmed.ncbi.nlm.nih.gov/37552975).
 
-- 49: #Cui Y, #Qi Y, #Ding L, Ding S, Han Z, **\*Wang Y**, #\*Du P. miRNA dosage control in development and human disease. _**Trends in Cell Biology**_ 2023 Jul 5:S0962-8924(23)00105-8. [Link](https://doi.org/10.1016/j.tcb.2023.05.009). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37419737).
+- 49: #Cui Y, #Qi Y, #Ding L, Ding S, Han Z, **\*Wang Y**, #\*Du P. miRNA dosage control in development and human disease. _**Trends in Cell Biology**_ 2024 Jan; 34(1): 31-47. [Link](https://doi.org/10.1016/j.tcb.2023.05.009). Epub 2023 Jul 5. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37419737).
 
 - 48: #Mi L, #Shi M, Li YX, Xie G, Rao X, Wu D, Cheng A, Niu M, Xu F, Yu Y, Gao N, Wei W, Wang X, **\*Wang Y**. DddA homolog search and engineering expand sequence compatibility of mitochondrial base editing. _**Nature Communications**_ 2023 Feb 16; 14(1): 874. [Link](https://doi.org/10.1038/s41467-023-36600-2). [PubMed](https://pubmed.ncbi.nlm.nih.gov/36797253).
 
-- 47: Huang R, Liu J, Chen X, Zhi Y, Ding S, Ming J, Li Y, **Wang Y**, \*Na J. A long non-coding RNA LncSync regulates mouse cardiomyocyte homeostasis and cardiac hypertrophy through coordination of miRNA actions. _**Protein & Cell**_ 2023 Mar 16; 14(2):153-157. [Link](https://doi.org/10.1093/procel/pwac019). Epub 2022 May 28. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36929003).
+- 47: Huang R, Liu J, Chen X, Zhi Y, Ding S, Ming J, Li Y, **Wang Y**, \*Na J. A long non-coding RNA LncSync regulates mouse cardiomyocyte homeostasis and cardiac hypertrophy through coordination of miRNA actions. _**Protein & Cell**_ 2023 Mar 16; 14(2): 153-157. [Link](https://doi.org/10.1093/procel/pwac019). Epub 2022 May 28. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36929003).
 
-- 46: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews-RNA**_ 2023 Jan; 14(1):e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub 2022 Apr 8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
+- 46: Hu LF, Li YX, Wang JZ, Zhao YT, **\*Wang Y**. Controlling CRISPR-Cas9 by guide RNA engineering. _**Wiley Interdisciplinary Reviews-RNA**_ 2023 Jan; 14(1): e1731. [Link](https://doi.org/10.1002/wrna.1731). Epub 2022 Apr 8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35393779).
 
 - 45: Wang SH, Hao J, Zhang C, Duan FF, Chiu YT, Shi M, Huang X, Yang J, **\*Cao H**, **\*Wang Y**. _KLF17_ promotes human naive pluripotency through repressing _MAPK3_ and _ZIC2_. _**Science China-Life Sciences**_ 2022 Oct; 65(10): 1985-1997. [Link](https://doi.org/10.1007/s11427-021-2076-x). Epub 2022 Apr 1. [PubMed](https://pubmed.ncbi.nlm.nih.gov/35391627).
 
 #### 2021年及之前
 
-- 44: *Guo WT, Wang SH, Zhang XS, Shi M, Duan FF, Hao J, Gu KL, Quan L, Wu YX, Liang Z and **\*Wang Y**. Acidic pH transiently prevents the silencing of self-renewal and dampens microRNA function in embryonic stem cells. _**Science Bulletin**_ 2021 Jul 15; 66(13):1319-1329. [Link](https://doi.org/10.1016/j.scib.2021.03.005). Epub 2021 Mar 10. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36654154).
+- 44: *Guo WT, Wang SH, Zhang XS, Shi M, Duan FF, Hao J, Gu KL, Quan L, Wu YX, Liang Z and **\*Wang Y**. Acidic pH transiently prevents the silencing of self-renewal and dampens microRNA function in embryonic stem cells. _**Science Bulletin**_ 2021 Jul 15; 66(13): 1319-1329. [Link](https://doi.org/10.1016/j.scib.2021.03.005). Epub 2021 Mar 10. [PubMed](https://pubmed.ncbi.nlm.nih.gov/36654154).
 
 - 43: Zhao YT and **\*Wang Y**. Monitoring the promoter activity of long noncoding RNAs and stem cell differentiation through knock-in of sgRNA flanked by tRNA in an intron. _**Cell Discovery**_ 2021 Jun 15; 7(1): 45. [Link](https://doi.org/10.1038/s41421-021-00272-3). [PubMed](https://pubmed.ncbi.nlm.nih.gov/34127653). 
 

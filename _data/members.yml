@@ -178,10 +178,18 @@
   url: 
   visible: True
 
-- name: 王存远
+- name: 赵舶言
   role: Undergraduate
-  img: http://wanglabpku.github.io/img/male.jpg
+  img: http://wanglabpku.github.io/img/female.png
   bio: 北京大学生命科学学院
+  research: 生物技术
+  url: 
+  visible: True
+
+- name: 韦竞嘉
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/female.png
+  bio: 中国农业大学
   research: 生物技术
   url: 
   visible: True
