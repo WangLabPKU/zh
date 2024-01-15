@@ -6,9 +6,9 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
-- 53: #Huang W, #Xiong T, #Zhao YT, Heng J, Han G, Wang P, Zhao Z, Shi M, Li J, Wang JZ, Wu YX, Liu F, \*Xi JJ, **\*Wang Y**, \*Zhang QC. Computational prediction and experimental validation identify functionally conserved lncRNAs from zebrafish to human. _**Nature Genetics**_ 2024 Jan 9. [Link](https://doi.org/10.1038/s41588-023-01620-7). Epub ahead of print.
+- 53: #Huang W, #Xiong T, #Zhao YT, Heng J, Han G, Wang P, Zhao Z, Shi M, Li J, Wang JZ, Wu YX, Liu F, \*Xi JJ, **\*Wang Y**, \*Zhang QC. Computational prediction and experimental validation identify functionally conserved lncRNAs from zebrafish to human. _**Nature Genetics**_ 2024 Jan; 56(1): 124-135. [Link](https://doi.org/10.1038/s41588-023-01620-7). Epub 2024 Jan 9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38195860).
 
-- 52: #Shi F, #Zhang K, Cheng QX, Che S, Zhi S, Yu Z, Liu F, Duan FF, **\*Wang Y**, \*Yang N. Molecular mechanism governing RNA-binding property of mammalian TRIM71 protein. _**Science Bulletin**_ 2023 Nov 21. [Link](https://doi.org/10.1016/j.scib.2023.11.041). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38036331).
+- 52: #Shi F, #Zhang K, Cheng QX, Che S, Zhi S, Yu Z, Liu F, Duan FF, **\*Wang Y**, \*Yang N. Molecular mechanism governing RNA-binding property of mammalian TRIM71 protein. _**Science Bulletin**_ 2024 Jan 15; 69(1): 72-81. [Link](https://doi.org/10.1016/j.scib.2023.11.041). Epub 2023 Nov 21. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38036331).
 
 - 51: Wei X, Yu S, Zhang T, Liu L, Wang X, Wang X, Chan YS, **Wang Y**, Meng S, \*Chen YG. MicroRNA-200 Loaded Lipid Nanoparticles Promote Intestinal Epithelium Regeneration in Canonical MicroRNA-Deficient Mice. _**ACS Nano**_ 2023 Nov 28; 17(22): 22901-22915. [Link](https://doi.org/10.1021/acsnano.3c08030). Epub 2023 Nov 8. [PubMed](https://pubmed.ncbi.nlm.nih.gov/37939210).
 
