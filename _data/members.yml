@@ -41,14 +41,6 @@
   url: 
   visible: True
 
-- name: 张晓姗
-  role: Postdoc
-  img: http://wanglabpku.github.io/img/members/zxs.jpg
-  bio: 北京大学生物学博士
-  research: 类器官技术
-  url: 
-  visible: True
-
 - name: 王静
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/wjing.jpg
@@ -151,6 +143,14 @@
   img: http://wanglabpku.github.io/img/members/hzl.jpg
   bio: 华南理工大学学士
   research: 类器官与人类疾病
+  url: 
+  visible: True
+
+- name: 杨子吟
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/yzy.jpg
+  bio: 中国农业大学学士
+  research: RNA生物技术
   url: 
   visible: True
 
@@ -271,6 +271,11 @@
   bio: 在北京工作
   visible: False
 
+- name: 张晓姗
+  role: 博士毕业生、博士后
+  bio: 在康奈尔大学博士后
+  visible: False
+
 - name: 李真
   role: 博士毕业生
   bio: 
@@ -278,7 +283,7 @@
 
 - name: 米黎
   role: 博士毕业生
-  bio: 
+  bio: 在西湖大学博士后
   visible: False
 
 - name: 邱雅姿
