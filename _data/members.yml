@@ -194,6 +194,14 @@
   url: 
   visible: True
 
+- name: 柳懿宸
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/male.jpg
+  bio: 北京大学生命科学学院
+  research: 生物技术
+  url: 
+  visible: True
+
 # 前成员
 
 - name: 李亚朴
