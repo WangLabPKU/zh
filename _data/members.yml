@@ -41,19 +41,19 @@
   url: 
   visible: True
 
+- name: 王康伟
+  role: Postdoc
+  img: http://wanglabpku.github.io/img/members/wkw.jpg
+  bio: 北京大学生物学博士
+  research: 心脏再生
+  url: 
+  visible: True
+
 - name: 王静
   role: PhD Student
   img: http://wanglabpku.github.io/img/members/wjing.jpg
   bio: 中国农业科学院硕士
   research: 生物技术
-  url: 
-  visible: True
-
-- name: 王康伟
-  role: PhD Student
-  img: http://wanglabpku.github.io/img/members/wkw.jpg
-  bio: 大连医科大学硕士
-  research: 心脏再生
   url: 
   visible: True
 
@@ -155,34 +155,34 @@
   visible: True
 
 - name: 黄启睿
-  role: Undergraduate
+  role: PhD Student
   img: http://wanglabpku.github.io/img/members/hqr.jpg
-  bio: 北京大学工学院
+  bio: 北京大学学士
   research: 生物医学工程
   url: 
   visible: True
 
 - name: 万子力
-  role: Undergraduate
+  role: PhD Student
   img: http://wanglabpku.github.io/img/members/wzl.jpg
-  bio: 山东大学
-  research: 生物技术
-  url: 
-  visible: True
-
-- name: 阴远钧
-  role: Undergraduate
-  img: http://wanglabpku.github.io/img/male.jpg
-  bio: 北京大学生命科学学院
+  bio: 山东大学学士
   research: 生物技术
   url: 
   visible: True
 
 - name: 赵舶言
   role: Undergraduate
-  img: http://wanglabpku.github.io/img/female.png
+  img: http://wanglabpku.github.io/img/members/zby.jpg
   bio: 北京大学生命科学学院
   research: 生物技术
+  url: 
+  visible: True
+
+- name: 来心慧
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/members/lxh.jpg
+  bio: 北京大学生命科学学院
+  research: 生物信息学
   url: 
   visible: True
 
@@ -305,6 +305,11 @@
   visible: False
 
 - name: 李睿喆
+  role: 学士毕业生
+  bio: 
+  visible: False
+
+- name: 阴远钧
   role: 学士毕业生
   bio: 
   visible: False
