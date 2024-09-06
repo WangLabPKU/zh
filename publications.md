@@ -1,10 +1,12 @@
 ---
 layout: pub
 title: "实验室文章"
-description: "同行评审的原始研究论文 <br>总引用5000余次 H指数27"
+description: "同行评审的原始研究论文 <br>总引用5000余次 H指数28"
 header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
+
+- 54: Li Z, Li X, Lin J, **Wang Y**, **\*Cao H**, \*Zhou J. Reevaluation by the CRISPR/Cas9 knockout approach revealed that multiple pluripotency-associated lncRNAs are dispensable for pluripotency maintenance while Snora73a/b is essential for pluripotency exit. _**Science China-Life Science**_ 2024 Jul 9. [Link](https://doi.org/10.1007/s11427-023-2594-3). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38995489).
 
 - 53: #Huang W, #Xiong T, #Zhao YT, Heng J, Han G, Wang P, Zhao Z, Shi M, Li J, Wang JZ, Wu YX, Liu F, \*Xi JJ, **\*Wang Y**, \*Zhang QC. Computational prediction and experimental validation identify functionally conserved lncRNAs from zebrafish to human. _**Nature Genetics**_ 2024 Jan; 56(1): 124-135. [Link](https://doi.org/10.1038/s41588-023-01620-7). Epub 2024 Jan 9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38195860).
 
