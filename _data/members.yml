@@ -186,14 +186,6 @@
   url: 
   visible: True
 
-- name: 韦竞嘉
-  role: Undergraduate
-  img: http://wanglabpku.github.io/img/female.png
-  bio: 中国农业大学
-  research: 生物技术
-  url: 
-  visible: True
-
 - name: 柳懿宸
   role: Undergraduate
   img: http://wanglabpku.github.io/img/male.jpg
@@ -325,6 +317,11 @@
   visible: False
 
 - name: 张玉涵
+  role: 实习生
+  bio: 
+  visible: False
+
+- name: 韦竞嘉
   role: 实习生
   bio: 
   visible: False
