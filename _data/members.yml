@@ -50,9 +50,9 @@
   visible: True
 
 - name: 王静
-  role: PhD Student
+  role: Postdoc
   img: http://wanglabpku.github.io/img/members/wjing.jpg
-  bio: 中国农业科学院硕士
+  bio: 北京大学生物学博士
   research: 生物技术
   url: 
   visible: True
@@ -191,6 +191,14 @@
   img: http://wanglabpku.github.io/img/male.jpg
   bio: 北京大学生命科学学院
   research: 生物技术
+  url: 
+  visible: True
+
+- name: 李妍
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/male.jpg
+  bio: 中国农业大学农学院
+  research: 深度学习
   url: 
   visible: True
 

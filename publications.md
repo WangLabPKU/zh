@@ -1,7 +1,7 @@
 ---
 layout: pub
 title: "实验室文章"
-description: "同行评审的原始研究论文 <br>总引用5000余次 H指数28"
+description: "同行评审的原始研究论文 <br>总引用6000余次 H指数29"
 header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
