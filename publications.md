@@ -6,6 +6,8 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
+- 56: #Cheng QX, #Xie G, Zhang X, Wang J, Ding S, Wu YX, Shi M, Duan FF, Wan ZL, Wei JJ, Xiao J, **\*Wang Y**. Co-profiling of transcriptome and in situ RNA-protein interactions in single cells and tissues. _**Nature Methods**_ 2025 Aug 11. [Link](https://doi.org/10.1038/s41592-025-02774-4). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40784921).
+
 - 55: #Ding S, Xie G, Han Z, **Wang Y**, Shi M, Zhai F, Liu T, Xie Z, Zhang W, Wu Y, Yang X, Zhou A, Fang F, Ren S, Liang S, **Cao H**, \*Xiong H, \*Ding C, \*#Dai L. The clinical spectrum and pathogenesis associated with KMT2B variants in Chinese pediatric patients. _**Parkinsonism and Related Disorders**_ 2024 Dec; 129: 107172. [Link](https://doi.org/10.1016/j.parkreldis.2024.107172). Epub 2024 Oct 16. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39418857).
 
 - 54: Li Z, Li X, Lin J, **Wang Y**, **\*Cao H**, \*Zhou J. Reevaluation by the CRISPR/Cas9 knockout approach revealed that multiple pluripotency-associated lncRNAs are dispensable for pluripotency maintenance while Snora73a/b is essential for pluripotency exit. _**Science China-Life Science**_ 2024 Oct; 67(10): 2198-2212. [Link](https://doi.org/10.1007/s11427-023-2594-3). Epub 2024 Jul 9. [PubMed](https://pubmed.ncbi.nlm.nih.gov/38995489).
