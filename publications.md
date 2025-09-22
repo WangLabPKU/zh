@@ -6,7 +6,7 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
-- 56: #Cheng QX, #Xie G, Zhang X, Wang J, Ding S, Wu YX, Shi M, Duan FF, Wan ZL, Wei JJ, Xiao J, **\*Wang Y**. Co-profiling of transcriptome and in situ RNA-protein interactions in single cells and tissues. _**Nature Methods**_ 2025 Aug 11. [Link](https://doi.org/10.1038/s41592-025-02774-4). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40784921).
+- 56: #Cheng QX, #Xie G, Zhang X, Wang J, Ding S, Wu YX, Shi M, Duan FF, Wan ZL, Wei JJ, Xiao J, **\*Wang Y**. Co-profiling of transcriptome and in situ RNA-protein interactions in single cells and tissues. _**Nature Methods**_ 2025 Sep; 22(9): 1824-1835. [Link](https://doi.org/10.1038/s41592-025-02774-4). Epub 2025 Aug 11. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40784921). (Highlighted in Nature Methods. MAPIT-seq reveals both RBP targets and transcriptome-wide gene expression profiles. _**Nature Methods**_ 2025 Sep; 22(9): 1768–1769.)
 
 - 55: #Ding S, Xie G, Han Z, **Wang Y**, Shi M, Zhai F, Liu T, Xie Z, Zhang W, Wu Y, Yang X, Zhou A, Fang F, Ren S, Liang S, **Cao H**, \*Xiong H, \*Ding C, \*#Dai L. The clinical spectrum and pathogenesis associated with KMT2B variants in Chinese pediatric patients. _**Parkinsonism and Related Disorders**_ 2024 Dec; 129: 107172. [Link](https://doi.org/10.1016/j.parkreldis.2024.107172). Epub 2024 Oct 16. [PubMed](https://pubmed.ncbi.nlm.nih.gov/39418857).
 
