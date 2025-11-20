@@ -186,11 +186,19 @@
   url: 
   visible: True
 
-- name: 李妍
+- name: 吴含
   role: Undergraduate
-  img: http://wanglabpku.github.io/img/female.png
-  bio: 中国农业大学农学院
-  research: 深度学习
+  img: http://wanglabpku.github.io/members/wh.jpg
+  bio: 安徽师范大学
+  research: 生物技术
+  url: 
+  visible: True
+
+- name: 杨涵凯
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/members/yhk.jpg
+  bio: 大连理工大学
+  research: 生物信息学
   url: 
   visible: True
 

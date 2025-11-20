@@ -15,11 +15,11 @@ header-img: "https://wanglabpku.github.io/img/home-bg-new.jpg"
 
 我们期待优秀的博士生加入我们，推动干细胞、基因编辑与RNA调控研究和技术的发展。有兴趣加入实验室的申请者请提前与我们<a href="mailto: yangming.wang@pku.edu.cn">邮件联系</a>，可以通过以下两个项目加入我们实验室成为博士生。
 
-- <u><a href="https://future.pku.edu.cn/xwzk/4ef963c7935645bb822acf89f9d39d87.htm">北京大学未来技术学院2024年全国优秀大学生夏令营</a></u>
-- <u><a href="http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1757">北京大学、清华大学和北京生命科学研究所联合培养博士研究生项目（PTN项目）2024年夏令营</a></u>
+- <u><a href="https://future.pku.edu.cn/xwzk/0e6a3381425845eeaf45be7ac037681b.htm">北京大学未来技术学院2025年全国优秀大学生夏令营</a></u>
+- <u><a href="http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1859">北京大学、清华大学和北京生命科学研究所联合培养博士研究生项目（PTN项目）2025年夏令营</a></u>
 
 欢迎PTN项目学生进行为期两个月的轮转！
 
 ### 本科生
 
-我们欢迎北京大学元培学院和生命科学学院的本科生，以及拟录取研究生提前加入实验室进行科研训练和毕业设计。
+我们欢迎北京大学元培学院、生命科学学院、生物医学工程系等各生命科学相关专业的本科生，以及拟录取研究生提前加入实验室进行科研训练和毕业设计。

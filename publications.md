@@ -1,10 +1,12 @@
 ---
 layout: pub
 title: "实验室文章"
-description: "同行评审的原始研究论文 <br>总引用6000余次 H指数29"
+description: "同行评审的原始研究论文 <br>总引用6000余次 H指数31"
 header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
+
+- 57: #Mi L, #Li YX, #Lv X, Wan ZL, Liu X, Zhang K, Li H, Yao Y, Zhang L, Xu Z, Zhuang X, Ji K, Jiang M, **\*Wang Y**, \*Lu P. Computational design of a high-precision mitochondrial DNA cytosine base editor. _**Nature Structural and Molecular Biology**_ 2025 Nov 17. [Link](https://doi.org/10.1038/s41594-025-01714-2). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41249818).
 
 - 56: #Cheng QX, #Xie G, Zhang X, Wang J, Ding S, Wu YX, Shi M, Duan FF, Wan ZL, Wei JJ, Xiao J, **\*Wang Y**. Co-profiling of transcriptome and in situ RNA-protein interactions in single cells and tissues. _**Nature Methods**_ 2025 Sep; 22(9): 1824-1835. [Link](https://doi.org/10.1038/s41592-025-02774-4). Epub 2025 Aug 11. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40784921). (Highlighted in Nature Methods. MAPIT-seq reveals both RBP targets and transcriptome-wide gene expression profiles. _**Nature Methods**_ 2025 Sep; 22(9): 1768–1769.)
 
