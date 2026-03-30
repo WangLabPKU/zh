@@ -33,14 +33,6 @@
   url: 
   visible: True
 
-- name: 姚望
-  role: Postdoc
-  img: http://wanglabpku.github.io/img/members/yw.jpg
-  bio: 南京农业大学博士
-  research: 早期胚胎发育
-  url: 
-  visible: True
-
 - name: 王康伟
   role: Postdoc
   img: http://wanglabpku.github.io/img/members/wkw.jpg
@@ -186,6 +178,22 @@
   url: 
   visible: True
 
+- name: 雷定伟
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/members/male.jpg
+  bio: 北京大学学士
+  research: AI
+  url: 
+  visible: True
+
+- name: 万思嘉
+  role: PhD Student
+  img: http://wanglabpku.github.io/img/female.png
+  bio: 上海科技大学学士
+  research: 生物技术
+  url: 
+  visible: True
+
 - name: 吴含
   role: Undergraduate
   img: http://wanglabpku.github.io/img/members/wh.jpg
@@ -199,6 +207,14 @@
   img: http://wanglabpku.github.io/img/members/yhk.jpg
   bio: 大连理工大学
   research: 生物信息学
+  url: 
+  visible: True
+
+- name: 葛菲
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/female.png
+  bio: 北京大学
+  research: 
   url: 
   visible: True
 
@@ -275,7 +291,7 @@
   visible: False
 
 - name: 赵雨亭
-  role: 博士毕业生
+  role: 博士毕业生、博士后
   bio: 在北京工作
   visible: False
 
@@ -296,6 +312,11 @@
 
 - name: 王静
   role: 博士毕业生、博士后
+  bio: 
+  visible: False
+
+- name: 姚望
+  role: 博士后
   bio: 
   visible: False
 

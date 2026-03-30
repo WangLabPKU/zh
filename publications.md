@@ -6,6 +6,14 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
+- 61: \*#Du Q, #Wang X, #**Wang Y**, \*Liu MF, \*Cao X. Empowering drug innovation through fundamental RNA research in China. _**Nature Chemical Biology**_. 2026 Mar 12. [Link](https://doi.org/10.1038/s41589-026-02173-6). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41820549).
+
+- 60: Kim T, **Wang Y**, \*Suh N. MicroRNA-mediated mechanotransduction and chondrocyte differentiation in mesenchymal stem cells. _**Animal Cells and Systems**_. 2026 Feb 4; 30(1): 201-218. [Link](https://doi.org/10.1080/19768354.2026.2623320). [PubMed](https://pubmed.ncbi.nlm.nih.gov/41660007).
+
+- 59: #Fei Y, #Wang P, #Zhang J, Shan X, Cai Z, Ma J, **\*Wang Y**, \*Zhang QC. Predicting small molecule-RNA interactions without RNA tertiary structures. _**Nature Biotechnology**_ 2026 Jan 2. [Link](https://doi.org/10.1038/s41587-025-02942-z). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41482542).
+
+- 58: \*Liu MF, \*Chen LL, \*Huang Y, \***Wang Y**, \*Cao X. Advances in trans-scale RNA regulation and imaging. _**Science China-Life Sciences**_ 2025 Dec; 68(12): 3433-3435. [Link](https://doi.org/10.1007/s11427-025-3159-x). Epub 2025 Nov 20. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41288945).
+
 - 57: #Mi L, #Li YX, #Lv X, Wan ZL, Liu X, Zhang K, Li H, Yao Y, Zhang L, Xu Z, Zhuang X, Ji K, Jiang M, **\*Wang Y**, \*Lu P. Computational design of a high-precision mitochondrial DNA cytosine base editor. _**Nature Structural and Molecular Biology**_ 2025 Dec; 32(12): 2575-2586. [Link](https://doi.org/10.1038/s41594-025-01714-2). Epub 2025 Nov 17. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41249818).
 
 - 56: #Cheng QX, #Xie G, Zhang X, Wang J, Ding S, Wu YX, Shi M, Duan FF, Wan ZL, Wei JJ, Xiao J, **\*Wang Y**. Co-profiling of transcriptome and in situ RNA-protein interactions in single cells and tissues. _**Nature Methods**_ 2025 Sep; 22(9): 1824-1835. [Link](https://doi.org/10.1038/s41592-025-02774-4). Epub 2025 Aug 11. [PubMed](https://pubmed.ncbi.nlm.nih.gov/40784921). (Highlighted in Nature Methods. MAPIT-seq reveals both RBP targets and transcriptome-wide gene expression profiles. _**Nature Methods**_ 2025 Sep; 22(9): 1768–1769.)
