@@ -6,6 +6,8 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
+- 63: #He J, #Zhou T, #Hu LF, Jiao Y, Wang J, Yan S, Jia S, Chen Q, Zhu W, Zhang J, Jia M, Li Y, Wang X, **Wang Y**, Yang YT, Sun L. Augmented prediction of multi-species protein-RNA interactions using evolutionary conservation of RNA-binding proteins. _**Nature Communications**_. 2026 Apr 27. [Link](https://doi.org/10.1038/s41467-026-72351-6). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42045261).
+
 - 62: #Wang J, #Wang JZ, #Hu LF, Zhao YT, Xie G, Wu YX, Zhao B, Yang ZY, Cao H, **\*Wang Y**. Sensitive monitoring of enhancer and noncoding RNA transcription via ribozyme-assisted RNA editing. _**Nature Communications**_. 2026 Apr 17. [Link](https://doi.org/10.1038/s41467-026-72033-3). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41997976).
 
 - 61: \*#Du Q, #Wang X, #**Wang Y**, \*Liu MF, \*Cao X. Empowering drug innovation through fundamental RNA research in China. _**Nature Chemical Biology**_. 2026 Mar 12. [Link](https://doi.org/10.1038/s41589-026-02173-6). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41820549).
