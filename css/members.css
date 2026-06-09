@@ -1,0 +1,157 @@
+/* ===== Member Cards ===== */
+.member-section {
+    clear: both;
+    margin-top: 16px;
+}
+.member-section h1 {
+    font-size: 28px;
+}
+.member-section hr {
+    margin: 6px 0 16px;
+}
+
+/* Card layout: image left, text right */
+.member-card {
+    overflow: hidden;
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #eee;
+}
+.member-card:last-child {
+    border-bottom: none;
+}
+.member-card .member-img {
+    float: left;
+    object-fit: cover;
+    border-radius: 4px;
+    margin: 0 14px 8px 0;
+}
+.member-card .member-info {
+    overflow: hidden;
+}
+
+/* PI / Co-PI: larger portrait (single-column, image left) */
+.member-card.pi .member-img {
+    width: 152px;
+    height: auto;
+}
+
+/* Lab Manager: single-column, image left */
+.member-card.manager .member-img {
+    width: 152px;
+    height: 126px;
+}
+
+.member-card h2 {
+    font-size: 24px;
+    margin: 0 0 4px;
+}
+.member-card h3 {
+    font-size: 22px;
+    margin: 0 0 4px;
+}
+.member-card .member-contact {
+    font-size: 18px;
+    margin: 2px 0;
+}
+.member-card .member-contact img {
+    height: 16px;
+    margin-right: 4px;
+    vertical-align: middle;
+}
+.member-card .member-research {
+    font-weight: bold;
+    font-size: 17px;
+    display: block;
+    margin: 4px 0;
+}
+.member-card .member-bio {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-top: 4px;
+}
+
+/* ===== Staff grid: 3-col → 2-col → 1-col ===== */
+.staff-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px 18px;
+}
+@media (max-width: 1280px) {
+    .staff-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width: 720px) {
+    .staff-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Grid card: image left, text right */
+.staff-grid .member-card {
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.staff-grid .member-img {
+    float: none !important;
+    flex-shrink: 0;
+    width: 126px !important;
+    height: 168px !important;
+    margin: 0 12px 0 0 !important;
+    object-fit: cover;
+    border-radius: 4px;
+}
+.staff-grid .member-info {
+    text-align: left;
+    overflow: hidden;
+}
+.staff-grid h3 {
+    font-size: 21px;
+    margin: 0 0 3px;
+}
+.staff-grid .member-research {
+    font-size: 18px;
+}
+.staff-grid .member-contact {
+    font-size: 18px;
+}
+.staff-grid .member-bio {
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+/* Responsive: PI/Co-PI/Manager stack on narrow screens */
+@media (max-width: 720px) {
+    .member-card.pi .member-img,
+    .member-card.manager .member-img {
+        float: none;
+        display: block;
+        margin: 0 auto 10px;
+    }
+    .member-card.pi .member-img {
+        width: 140px;
+    }
+    .member-card.manager .member-img {
+        width: 100px;
+        height: 100px;
+    }
+    .member-card.pi .member-info,
+    .member-card.manager .member-info {
+        text-align: center;
+    }
+}
+
+/* ===== Alumni ===== */
+.alumni-list {
+    font-size: 19px;
+    line-height: 1.6;
+    margin-bottom: 16px;
+}
+.alumni-list b {
+    font-size: 20px;
+}
