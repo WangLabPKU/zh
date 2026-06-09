@@ -1,175 +1,216 @@
 ---
 layout: page
-title: "实验室成员" 
-description: "在CAMELab工作和学习的成员"
-header-img: "https://wanglabpku.github.io/img/newyear.png"
+title: "Members"
+description: "Members working and studying at CAMELab \n"
+header-img: "img/newyear.png"
 ---
-<div style="clear:both; margin-top: 5px; font-size: 20px;">
-	<h1>PI</h1>
-	<hr>
-{% for member in site.data.members %} {% if member.role == 'PI' %} {% if member.visible == true %}
 
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:12px; float:left; width:156px !important">
-	<h2>{{ member.name }}博士</h2>
-	{% if member.email %}
-	<span class="social-share-googleplus" style="margin: 2px; font-size: 17px;"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px; margin-right: 3px;">{{member.email}} </span>
-	{% endif %}
-	{% if member.url %}
-	<span class="social-share-googleplus" style="margin: 2px; font-size: 17px;"> <a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:18px; margin-right: 3px;">Website</a></span>
-	{% endif %}
-	<br>
-	{% if member.bio %} 
-	{{ member.bio }}
-	{% endif %}
-{% endif %}{% endif %}{% endfor %}
+<link rel="stylesheet" href="../css/members.css">
+
+<!-- ==================== PI ==================== -->
+<div class="member-section">
+    <h1>PI</h1>
+    <hr>
+    {% for member in site.data.members %}
+    {% if member.role == 'PI' and member.visible == true %}
+    <div class="member-card pi">
+        <img class="member-img" src="{{ member.img }}" alt="{{ member.name }}">
+        <div class="member-info">
+            <h2>{{ member.name }}博士</h2>
+            {% if member.email %}
+            <span class="member-contact"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}">{{ member.email }}</span>
+            {% endif %}
+            {% if member.url %}
+            <span class="member-contact"><a href="{{ member.url }}"><img src="{{ "/img/icons/url-icon.png" | prepend: site.baseurl }}">Website</a></span>
+            {% endif %}
+            {% if member.bio %}
+            <div class="member-bio">{{ member.bio }}</div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
 </div>
-<br style="clear:both;">
-<div style="clear:both; margin-top: 5px; font-size: 20px;">
-	<h1>Co-PI</h1>
-	<hr>
-{% for member in site.data.members %} {% if member.role == 'Co-PI' %} {% if member.visible == true %}
-	<img src="{{ member.img }}" style="margin-top:0px; margin-bottom:5px; margin-right:12px; float:left; width:152px !important">
-	<h2>{{ member.name }}博士</h2>
-	{% if member.email %}
-	<span class="social-share-googleplus" style="margin: 2px; font-size: 17px;"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px; margin-right: 3px;">{{member.email}} </span>
-	{% endif %}
-	{% if member.url %}
-	<span class="social-share-googleplus" style="margin: 2px; font-size: 17px;"> <a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:18px; margin-right: 3px;">Website</a></span>
-	{% endif %}
-	<br>
-	{% if member.bio %} 
-	{{ member.bio }}
-	{% endif %}
-{% endif %}{% endif %}{% endfor %}
+
+<!-- ==================== Co-PI ==================== -->
+<div class="member-section">
+    <h1>Co-PI</h1>
+    <hr>
+    {% for member in site.data.members %}
+    {% if member.role == 'Co-PI' and member.visible == true %}
+    <div class="member-card pi">
+        <img class="member-img" src="{{ member.img }}" alt="{{ member.name }}">
+        <div class="member-info">
+            <h2>{{ member.name }}博士</h2>
+            {% if member.email %}
+            <span class="member-contact"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}">{{ member.email }}</span>
+            {% endif %}
+            {% if member.url %}
+            <span class="member-contact"><a href="{{ member.url }}"><img src="{{ "/img/icons/url-icon.png" | prepend: site.baseurl }}">Website</a></span>
+            {% endif %}
+            {% if member.bio %}
+            <div class="member-bio">{{ member.bio }}</div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
 </div>
-<br style="clear:both;">
-<div style="clear:both; margin-top: 5px;">
-	<h1>实验室管理员</h1>
-	<hr>
-{% for member in site.data.members %} {% if member.role == 'Lab Manager' %} {% if member.visible == true %}
-	<div class="cardBox">
-		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; height:120px !important">
-		<h3 style="font-size: 25px;">{{ member.name }}</h3>
-	{% if member.email %}
-		<span class="social-share-googleplus" style="margin: 2px; font-size: 17px;"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px; margin-right: 3px;">{{member.email}} </span>
-	{% endif %}
-	{% if member.url %}
-		<span class="social-share-googleplus" style="margin: 2px; font-size: 17px;"> <a href="{{ member.url }}" title="Google Plus"><img src="{{ "/img/icons/url-icon.png"| prepend: site.baseurl }}" style="height:18px; margin-right: 3px;">Website</a></span>
-	{% endif %}
-		<br>
-	{% if member.research %}
-		<b>{{ member.research }}</b>
-	{% endif %}
-	{% if member.bio %} 
-		{{ member.bio }}
-	{% endif %}
-	</div>
-{% endif %}{% endif %}{% endfor %}
+
+<!-- ==================== Lab Manager ==================== -->
+<div class="member-section">
+    <h1>实验室管理员</h1>
+    <hr>
+    {% for member in site.data.members %}
+    {% if member.role == 'Lab Manager' and member.visible == true %}
+    <div class="member-card manager">
+        <img class="member-img" src="{{ member.img }}" alt="{{ member.name }}">
+        <div class="member-info">
+            <h3>{{ member.name }}</h3>
+            {% if member.email %}
+            <span class="member-contact"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}">{{ member.email }}</span>
+            {% endif %}
+            {% if member.url %}
+            <span class="member-contact"><a href="{{ member.url }}"><img src="{{ "/img/icons/url-icon.png" | prepend: site.baseurl }}">Website</a></span>
+            {% endif %}
+            {% if member.research %}
+            <span class="member-research">{{ member.research }}</span>
+            {% endif %}
+            {% if member.bio %}
+            <div class="member-bio">{{ member.bio }}</div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
 </div>
-<style>
-    .cardBox {
-        font-family: Calibri;
-        font-size: 18px;
-    }
-</style>
-<div style="clear:both; margin-top: 5px;">
-	<h1>博士后</h1>
-	<hr>
-{% for member in site.data.members %} {% if member.role == 'Postdoc' %} {% if member.visible == true %}
-	<div class="cardBox">
-		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
-		<h3 style="font-size: 25px;">{{ member.name }}博士</h3>
-	{% if member.research %}
-		<b style="margin-top: 3px;">{{ member.research }}</b>
-	{% endif %}
-	{% if member.github %} 
-		<span class="social-share-googleplus" style="margin-bottom: 2px; font-size: 17px;"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
-	{% endif %}
-	{% if member.email %}
-		<span class="social-share-googleplus" style="margin-bottom: 2px; font-size: 17px;"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}" style="height:18px">{{member.email}} </span>
-	{% endif %}
-		<br>
-	{% if member.bio %} 
-		<p style="margin-top: 3px;">{{ member.bio }}</p>
-	{% endif %}
-	</div>
-{% endif %}{% endif %}{% endfor %}
+
+<!-- ==================== Postdoc ==================== -->
+<div class="member-section">
+    <h1>博士后</h1>
+    <hr>
+    <div class="staff-grid">
+    {% for member in site.data.members %}
+    {% if member.role == 'Postdoc' and member.visible == true %}
+    <div class="member-card">
+        <img class="member-img" src="{{ member.img }}" alt="{{ member.name }}">
+        <div class="member-info">
+            <h3>{{ member.name }}博士</h3>
+            {% if member.research %}
+            <span class="member-research">{{ member.research }}</span>
+            {% endif %}
+            {% if member.github %}
+            <span class="member-contact"><a href="https://github.com/{{ member.github }}"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}">Github</a></span>
+            {% endif %}
+            {% if member.email %}
+            <span class="member-contact"><img src="{{ "/img/icons/email.png" | prepend: site.baseurl }}">{{ member.email }}</span>
+            {% endif %}
+            {% if member.bio %}
+            <div class="member-bio">{{ member.bio }}</div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+    </div>
 </div>
-<br style="clear:both;">
-<div style="clear:both; margin-top: 5px;">
-	<h1>博士研究生</h1>
-	<hr>
-{% for member in site.data.members %} {% if member.role == 'PhD Student' %} {% if member.visible == true %}
-	<div class="cardBox">
-		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
-		<h3 style="font-size: 25px;">{{ member.name }}</h3>
-	{% if member.research %}
-		<b style="margin-top: 3px;">{{ member.research }}</b>
-	{% endif %}
-	{% if member.github %} 
-		<span class="social-share-googleplus" style="margin-bottom: 2px; font-size: 17px;"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
-	{% endif %}
-		<br>
-	{% if member.bio %} 
-		<p style="margin-top: 3px;">{{ member.bio }}</p>
-	{% endif %}
-	</div>
-{% endif %}{% endif %}{% endfor %}
+
+<!-- ==================== PhD Student ==================== -->
+<div class="member-section">
+    <h1>博士研究生</h1>
+    <hr>
+    <div class="staff-grid">
+    {% for member in site.data.members %}
+    {% if member.role == 'PhD Student' and member.visible == true %}
+    <div class="member-card">
+        <img class="member-img" src="{{ member.img }}" alt="{{ member.name }}">
+        <div class="member-info">
+            <h3>{{ member.name }}</h3>
+            {% if member.research %}
+            <span class="member-research">{{ member.research }}</span>
+            {% endif %}
+            {% if member.github %}
+            <span class="member-contact"><a href="https://github.com/{{ member.github }}"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}">Github</a></span>
+            {% endif %}
+            {% if member.bio %}
+            <div class="member-bio">{{ member.bio }}</div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+    </div>
 </div>
-<br style="clear:both;">
-<div style="clear:both; margin-top: 5px;">
-	<!--<h1>轮转生</h1>
-	<hr>-->
-{% for member in site.data.members %} {% if member.role == 'Rotation Student' %} {% if member.visible == true %}
-	<div class="cardBox">
-		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
-		<h3 style="font-size: 25px;">{{ member.name }}</h3>
-	{% if member.research %}
-		<b style="margin-top: 3px;">{{ member.research }}</b>
-	{% endif %}
-	{% if member.github %} 
-		<span class="social-share-googleplus" style="margin-bottom: 2px; font-size: 17px;"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
-	{% endif %}
-		<br>
-	{% if member.bio %} 
-	<p style="margin-top: 3px;">{{ member.bio }}</p>
-	{% endif %}
-	</div>	
-{% endif %}{% endif %}{% endfor %}
+
+<!-- ==================== Rotation Student ==================== -->
+{% assign rotation = site.data.members | where: "role", "Rotation Student" | where: "visible", true %}
+{% if rotation.size > 0 %}
+<div class="member-section">
+    <h1>轮转生</h1>
+    <hr>
+    <div class="staff-grid">
+    {% for member in rotation %}
+    <div class="member-card">
+        <img class="member-img" src="{{ member.img }}" alt="{{ member.name }}">
+        <div class="member-info">
+            <h3>{{ member.name }}</h3>
+            {% if member.research %}
+            <span class="member-research">{{ member.research }}</span>
+            {% endif %}
+            {% if member.github %}
+            <span class="member-contact"><a href="https://github.com/{{ member.github }}"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}">Github</a></span>
+            {% endif %}
+            {% if member.bio %}
+            <div class="member-bio">{{ member.bio }}</div>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+    </div>
 </div>
-<br style="clear:both;">
-<div style="clear:both; margin-top: 5px;">
-	<h1>本科生</h1>
-	<hr>
-{% for member in site.data.members %} {% if member.role == 'Undergraduate' %} {% if member.visible == true %}
-	<div class="cardBox">
-		<img src="{{ member.img }}" style="margin-top:5px; margin-bottom:7px; margin-right:12px; float:left; width:120px !important">
-		<h3 style="font-size: 25px;">{{ member.name }}</h3>
-	{% if member.research %}
-		<b style="margin-top: 3px;">{{ member.research }}</b>
-	{% endif %}
-	{% if member.github %} 
-		<span class="social-share-googleplus" style="margin-bottom: 2px; font-size: 17px;"><a href="https://github.com/{{ member.github }}" title="Github"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}" style="height:20px">Github</a></span> 
-	{% endif %}
-		<br>
-	{% if member.bio %} 
-		<p style="margin-top: 3px;">{{ member.bio }}</p>
-	{% endif %}
-	</div>
-{% endif %}{% endif %}{% endfor %}
+{% endif %}
+
+<!-- ==================== Undergraduate ==================== -->
+<div class="member-section">
+    <h1>本科生</h1>
+    <hr>
+    <div class="staff-grid">
+    {% for member in site.data.members %}
+    {% if member.role == 'Undergraduate' and member.visible == true %}
+    <div class="member-card">
+        <img class="member-img" src="{{ member.img }}" alt="{{ member.name }}">
+        <div class="member-info">
+            <h3>{{ member.name }}</h3>
+            {% if member.research %}
+            <span class="member-research">{{ member.research }}</span>
+            {% endif %}
+            {% if member.github %}
+            <span class="member-contact"><a href="https://github.com/{{ member.github }}"><img src="{{ "/img/icons/github-icon.png" | prepend: site.baseurl }}">Github</a></span>
+            {% endif %}
+            {% if member.bio %}
+            <div class="member-bio">{{ member.bio }}</div>
+            {% endif %}
+        </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+    </div>
 </div>
-<br style="clear:both;">
-<br style="clear:both;">
-<div style="clear:both; margin-top: 5px;">
-	<h1>实验室前成员</h1>
-	<hr>
-{% for member in site.data.members %} {% if member.visible == false %}
-	<div style="margin-bottom: 5px; font-size: 17px;">
-		<b>{{ member.name }}{{ member.role }}</b>
-	{% if member.bio %}
-	现{{ member.bio }}。
-	{% endif %}
-	</div>
-{% endif %}{% endfor %}
-...
+
+<!-- ==================== Alumni ==================== -->
+<div class="member-section">
+    <h1>实验室前成员</h1>
+    <hr>
+    <div class="alumni-list">
+        {% for member in site.data.members %}
+        {% if member.visible == false %}
+        <div>
+            <b>{{ member.name }},</b>
+            {% if member.role %}{{ member.role }}.{% endif %}
+            {% if member.bio %}Now {{ member.bio }}.{% endif %}
+        </div>
+        {% endif %}
+        {% endfor %}
+        ...
+    </div>
 </div>

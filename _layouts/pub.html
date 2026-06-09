@@ -3,12 +3,12 @@ layout: default
 ---
 <style>
     body {
-        font-family: Carbril;
-        font-size: 18px;
+        font-family: Calibri;
+        font-size: 20px;
     }
 </style>
 <!-- Page Header -->
-<header class="intro-header" style="background-image: url('{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
+<header class="intro-header" style="background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')">
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -28,7 +28,6 @@ layout: default
 </header>
 <script type="text/javascript">
 	$(document).ready(function() {
-	    //为超链接加上target='_blank'属性
 		$('a[href^="http"]').each(function() {
 			$(this).attr('target', '_blank');
 		});
@@ -37,7 +36,7 @@ layout: default
 <!-- Main Content -->
 <div class="container">
 	<div class="row">
-		<div class="col-lg-11 col-lg-offset-1 col-md-10 col-md-offset-1" style="text-align: justify;">
+		<div class="col-lg-12 col-md-12" style="text-align: justify;">
 			{{ content }}
 		</div>
 	</div>
