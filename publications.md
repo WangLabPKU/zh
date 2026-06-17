@@ -6,13 +6,13 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
-- 63: #He J, #Zhou T, #Hu LF, Jiao Y, Wang J, Yan S, Jia S, Chen Q, Zhu W, Zhang J, Jia M, Li Y, Wang X, **Wang Y**, Yang YT, Sun L. Augmented prediction of multi-species protein-RNA interactions using evolutionary conservation of RNA-binding proteins. _**Nature Communications**_. 2026 Apr 27. [Link](https://doi.org/10.1038/s41467-026-72351-6). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42045261).
+- 63: #He J, #Zhou T, #Hu LF, Jiao Y, Wang J, Yan S, Jia S, Chen Q, Zhu W, Zhang J, Jia M, Li Y, Wang X, **Wang Y**, Yang YT, Sun L. Augmented prediction of multi-species protein-RNA interactions using evolutionary conservation of RNA-binding proteins. _**Nature Communications**_ 2026 Apr 27. [Link](https://doi.org/10.1038/s41467-026-72351-6). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42045261).
 
-- 62: #Wang J, #Wang JZ, #Hu LF, Zhao YT, Xie G, Wu YX, Zhao B, Yang ZY, Cao H, **\*Wang Y**. Sensitive monitoring of enhancer and noncoding RNA transcription via ribozyme-assisted RNA editing. _**Nature Communications**_. 2026 Apr 17. [Link](https://doi.org/10.1038/s41467-026-72033-3). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41997976).
+- 62: #Wang J, #Wang JZ, #Hu LF, Zhao YT, Xie G, Wu YX, Zhao B, Yang ZY, Cao H, **\*Wang Y**. Sensitive monitoring of enhancer and noncoding RNA transcription via ribozyme-assisted RNA editing. _**Nature Communications**_ 2026 Apr 17; 17(1): 5343. [Link](https://doi.org/10.1038/s41467-026-72033-3). [PubMed](https://pubmed.ncbi.nlm.nih.gov/41997976).
 
-- 61: \*#Du Q, #Wang X, #**Wang Y**, \*Liu MF, \*Cao X. Empowering drug innovation through fundamental RNA research in China. _**Nature Chemical Biology**_. 2026 Jun; 22(6): 843-846. [Link](https://doi.org/10.1038/s41589-026-02173-6). Epub 2026 Mar 12. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41820549).
+- 61: \*#Du Q, #Wang X, #**Wang Y**, \*Liu MF, \*Cao X. Empowering drug innovation through fundamental RNA research in China. _**Nature Chemical Biology**_ 2026 Jun; 22(6): 843-846. [Link](https://doi.org/10.1038/s41589-026-02173-6). Epub 2026 Mar 12. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41820549).
 
-- 60: Kim T, **Wang Y**, \*Suh N. MicroRNA-mediated mechanotransduction and chondrocyte differentiation in mesenchymal stem cells. _**Animal Cells and Systems**_. 2026 Feb 4; 30(1): 201-218. [Link](https://doi.org/10.1080/19768354.2026.2623320). [PubMed](https://pubmed.ncbi.nlm.nih.gov/41660007).
+- 60: Kim T, **Wang Y**, \*Suh N. MicroRNA-mediated mechanotransduction and chondrocyte differentiation in mesenchymal stem cells. _**Animal Cells and Systems**_ 2026 Feb 4; 30(1): 201-218. [Link](https://doi.org/10.1080/19768354.2026.2623320). [PubMed](https://pubmed.ncbi.nlm.nih.gov/41660007).
 
 - 59: #Fei Y, #Wang P, #Zhang J, Shan X, Cai Z, Ma J, **\*Wang Y**, \*Zhang QC. Predicting small molecule-RNA interactions without RNA tertiary structures. _**Nature Biotechnology**_ 2026 Jan 2. [Link](https://doi.org/10.1038/s41587-025-02942-z). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/41482542).
 

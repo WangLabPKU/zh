@@ -180,7 +180,7 @@
 
 - name: 雷定伟
   role: PhD Student
-  img: http://wanglabpku.github.io/img/male.jpg
+  img: http://wanglabpku.github.io/img/members/lwd.jpg
   bio: 北京大学学士
   research: AI
   url: 
@@ -188,7 +188,7 @@
 
 - name: 万思嘉
   role: PhD Student
-  img: http://wanglabpku.github.io/img/female.png
+  img: http://wanglabpku.github.io/img/members/wsj.jpg
   bio: 上海科技大学学士
   research: 生物技术
   url: 
@@ -213,6 +213,14 @@
 - name: 葛菲
   role: Undergraduate
   img: http://wanglabpku.github.io/img/female.png
+  bio: 北京大学
+  research: 
+  url: 
+  visible: True
+
+- name: 王易尘
+  role: Undergraduate
+  img: http://wanglabpku.github.io/img/male.jpg
   bio: 北京大学
   research: 
   url: 
