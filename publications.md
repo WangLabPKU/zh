@@ -6,6 +6,8 @@ header-img: "https://wanglabpku.github.io/img/molecule.png"
 ---
 #### 2022年至今
 
+- 64: #Hu LF, #Xie G, Wu YX, Li YX, Wan ZL, Mi L, Wang JZ, Wang Y. Longitudinal monitoring of cytoplasmic RBP-RNA interactions and transcriptome in living cells by engineered protein nanocages. _**Molecular Cell**_ 2026 Jun 25. [Link](https://doi.org/10.1016/j.molcel.2026.06.007). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42349405).
+
 - 63: #He J, #Zhou T, #Hu LF, Jiao Y, Wang J, Yan S, Jia S, Chen Q, Zhu W, Zhang J, Jia M, Li Y, Wang X, **Wang Y**, Yang YT, Sun L. Augmented prediction of multi-species protein-RNA interactions using evolutionary conservation of RNA-binding proteins. _**Nature Communications**_ 2026 Apr 27. [Link](https://doi.org/10.1038/s41467-026-72351-6). Epub ahead of print. [PubMed](https://pubmed.ncbi.nlm.nih.gov/42045261).
 
 - 62: #Wang J, #Wang JZ, #Hu LF, Zhao YT, Xie G, Wu YX, Zhao B, Yang ZY, Cao H, **\*Wang Y**. Sensitive monitoring of enhancer and noncoding RNA transcription via ribozyme-assisted RNA editing. _**Nature Communications**_ 2026 Apr 17; 17(1): 5343. [Link](https://doi.org/10.1038/s41467-026-72033-3). [PubMed](https://pubmed.ncbi.nlm.nih.gov/41997976).
