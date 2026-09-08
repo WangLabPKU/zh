@@ -25,14 +25,6 @@
   url: 
   visible: True
 
-- name: 胡鲁峰
-  role: Postdoc
-  img: http://wanglabpku.github.io/img/members/hlf.jpg
-  bio: 北京大学生物学博士
-  research: 生物技术
-  url: 
-  visible: True
-
 - name: 王康伟
   role: Postdoc
   img: http://wanglabpku.github.io/img/members/wkw.jpg
@@ -41,11 +33,12 @@
   url: 
   visible: True
 
-- name: 石铭
-  role: PhD Student
-  img: http://wanglabpku.github.io/img/members/sming.jpg
-  bio: 曲阜师范大学
-  research: 早期胚胎发育
+- name: 谢岗
+  role: Postdoc
+  img: http://wanglabpku.github.io/img/members/xg.jpg
+  github: JeremyTse
+  bio: 北京大学生物学博士 
+  research: RNA生物信息学
   url: 
   visible: True
 
@@ -54,15 +47,6 @@
   img: http://wanglabpku.github.io/img/members/cqx.jpg
   bio: 中国农业大学学士
   research: 生物技术
-  url: 
-  visible: True
-
-- name: 谢岗
-  role: PhD Student
-  img: http://wanglabpku.github.io/img/members/xg.jpg
-  github: JeremyTse
-  bio: 华中科技大学工学学士 
-  research: RNA生物信息学
   url: 
   visible: True
 
@@ -195,17 +179,17 @@
   visible: True
 
 - name: 吴含
-  role: Undergraduate
+  role: PhD Student
   img: http://wanglabpku.github.io/img/members/wh.jpg
-  bio: 安徽师范大学
+  bio: 安徽师范大学学士
   research: 生物技术
   url: 
   visible: True
 
 - name: 杨涵凯
-  role: Undergraduate
+  role: PhD Student
   img: http://wanglabpku.github.io/img/members/yhk.jpg
-  bio: 大连理工大学
+  bio: 大连理工大学学士
   research: 生物信息学
   url: 
   visible: True
@@ -325,6 +309,16 @@
 
 - name: 姚望
   role: 博士后
+  bio: 
+  visible: False
+
+- name: 胡鲁峰
+  role: 博士毕业生、博士后
+  bio: 在南昌大学独立研究员
+  visible: False
+
+- name: 石铭
+  role: 技术员、博士毕业生
   bio: 
   visible: False
 
