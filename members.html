@@ -206,8 +206,8 @@ header-img: "https://wanglabpku.github.io/img/newyear.png"
         {% if member.visible == false %}
         <div>
             <b>{{ member.name }},</b>
-            {% if member.role %}{{ member.role }}.{% endif %}
-            {% if member.bio %}Now {{ member.bio }}.{% endif %}
+            {% if member.role %}{{ member.role }}，{% endif %}
+            {% if member.bio %}现{{ member.bio }}。{% endif %}
         </div>
         {% endif %}
         {% endfor %}
